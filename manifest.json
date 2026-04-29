@@ -2,8 +2,60 @@
   "version": 1,
   "targets": [
     {
-      "id": "char1",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/char1.png"
+      "id": "cat01",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat01.png"
+    },
+    {
+      "id": "cat02",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat02.png"
+    },
+    {
+      "id": "cat03",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat03.png"
+    },
+    {
+      "id": "cat04",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat04.png"
+    },
+    {
+      "id": "cat05",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat05.png"
+    },
+    {
+      "id": "cat06",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat06.png"
+    },
+    {
+      "id": "cat07",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat07.png"
+    },
+    {
+      "id": "cat08",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat08.png"
+    },
+    {
+      "id": "cat09",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat09.png"
+    },
+    {
+      "id": "cat10",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat10.png"
+    },
+    {
+      "id": "cat11",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat11.png"
+    },
+    {
+      "id": "cat12",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat12.png"
+    },
+    {
+      "id": "cat13",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat13.png"
+    },
+    {
+      "id": "cat14",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat14.png"
     }
   ]
 }
