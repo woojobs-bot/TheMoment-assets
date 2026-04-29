@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "targets": [
+    {
+      "id": "char1",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/char1.png"
+    },
+    {
+      "id": "IMG_8252_nobg",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/IMG_8252_nobg.png"
+    },
+    {
+      "id": "IMG_8488_nobg",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/IMG_8488_nobg.png"
+    }
+  ]
+}
