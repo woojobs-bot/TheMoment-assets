@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "name": { "ko": "고양이", "en": "Cats", "ja": "猫", "es": "Gatos" },
   "targets": [
     {
       "id": "cat01",
