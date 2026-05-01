@@ -4,15 +4,15 @@
   "targets": [
     {
       "id": "anis01",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/nikke/anis01.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/anis01.png"
     },
     {
       "id": "anis02",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/nikke/anis02.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/anis02.png"
     },
     {
       "id": "anis03",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/nikke/anis03.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/anis03.png"
     }
   ]
 }
