@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "name": { "ko": "니케", "en": "Nikke", "ja": "Nikke", "es": "Nikke" },
+  "targets": [
+    {
+      "id": "anis01",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/nikke/anis01.png"
+    },
+    {
+      "id": "anis02",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/nikke/anis02.png"
+    },
+    {
+      "id": "anis03",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/nikke/anis03.png"
+    }
+  ]
+}
