@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "강아지",
+    "en": "Dogs",
+    "ja": "犬",
+    "es": "Perros"
+  },
+  "targets": [
+    {
+      "id": "dog01",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/dogs/dog01.png"
+    },
+    {
+      "id": "dog02",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/dogs/dog02.png"
+    },
+    {
+      "id": "dog03",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/dogs/dog03.png"
+    },
+    {
+      "id": "dog04",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/dogs/dog04.png"
+    },
+    {
+      "id": "dog05",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/dogs/dog05.png"
+    },
+    {
+      "id": "dog06",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/dogs/dog06.png"
+    },
+    {
+      "id": "dog07",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/dogs/dog07.png"
+    },
+    {
+      "id": "dog08",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/dogs/dog08.png"
+    },
+    {
+      "id": "dog09",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/dogs/dog09.png"
+    },
+    {
+      "id": "dog10",
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/dogs/dog10.png"
+    }
+  ]
+}
