@@ -1,62 +1,66 @@
 {
   "version": 1,
+  "update_message": { "ko": "강아지가 추가되었습니다.", "en": "Dogs have been added.", "ja": "犬が追加されました。", "es": "Se han añadido perros." },
   "name": { "ko": "고양이", "en": "Cats", "ja": "猫", "es": "Gatos" },
+  "updates": [
+    "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/dogs.json"
+  ],
   "targets": [
     {
       "id": "cat01",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat01.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat01.png"
     },
     {
       "id": "cat02",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat02.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat02.png"
     },
     {
       "id": "cat03",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat03.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat03.png"
     },
     {
       "id": "cat04",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat04.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat04.png"
     },
     {
       "id": "cat05",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat05.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat05.png"
     },
     {
       "id": "cat06",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat06.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat06.png"
     },
     {
       "id": "cat07",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat07.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat07.png"
     },
     {
       "id": "cat08",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat08.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat08.png"
     },
     {
       "id": "cat09",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat09.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat09.png"
     },
     {
       "id": "cat10",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat10.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat10.png"
     },
     {
       "id": "cat11",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat11.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat11.png"
     },
     {
       "id": "cat12",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat12.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat12.png"
     },
     {
       "id": "cat13",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat13.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat13.png"
     },
     {
       "id": "cat14",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cat14.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat14.png"
     }
   ]
 }
