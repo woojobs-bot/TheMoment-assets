@@ -1,10 +1,6 @@
 {
-  "version": 2,
-  "update_message": { "ko": "강아지가 추가되었습니다.", "en": "Dogs have been added.", "ja": "犬が追加されました。", "es": "Se han añadido perros." },
+  "version": 1,
   "name": { "ko": "고양이", "en": "Cats", "ja": "猫", "es": "Gatos" },
-  "updates": [
-    "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/dogs.json"
-  ],
   "targets": [
     {
       "id": "cat01",
@@ -45,22 +41,6 @@
     {
       "id": "cat10",
       "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat10.png"
-    },
-    {
-      "id": "cat11",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat11.png"
-    },
-    {
-      "id": "cat12",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat12.png"
-    },
-    {
-      "id": "cat13",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat13.png"
-    },
-    {
-      "id": "cat14",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat14.png"
     }
   ]
 }
