@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "update_message": { "ko": "강아지가 추가되었습니다.", "en": "Dogs have been added.", "ja": "犬が追加されました。", "es": "Se han añadido perros." },
   "name": { "ko": "고양이", "en": "Cats", "ja": "猫", "es": "Gatos" },
   "updates": [
