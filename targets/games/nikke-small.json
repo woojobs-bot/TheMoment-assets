@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "니케 소형",
+    "en": "NIKKE Small",
+    "ja": "ニケ 小型",
+    "es": "NIKKE Pequeño"
+  },
+  "targets": [
+    {
+      "id": "Ade-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Ade-small.png"
+    },
+    {
+      "id": "Anchor-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Anchor-small.png"
+    },
+    {
+      "id": "Anis-TTS-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Anis-TTS-small.png"
+    },
+    {
+      "id": "Frima-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Frima-small.png"
+    },
+    {
+      "id": "Helm-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Helm-small.png"
+    },
+    {
+      "id": "Liter-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Liter-small.png"
+    },
+    {
+      "id": "Mary-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Mary-small.png"
+    },
+    {
+      "id": "Mast-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Mast-small.png"
+    },
+    {
+      "id": "Mint-TTS-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Mint-TTS-small.png"
+    },
+    {
+      "id": "Pepper-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Pepper-small.png"
+    },
+    {
+      "id": "Prika-TTS-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Prika-TTS-small.png"
+    },
+    {
+      "id": "Privaty-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Privaty-small.png"
+    },
+    {
+      "id": "Rapi-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Rapi-small.png"
+    },
+    {
+      "id": "Yan-small",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/small/Yan-small.png"
+    }
+  ]
+}

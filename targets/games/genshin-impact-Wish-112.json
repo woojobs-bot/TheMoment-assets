@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "원신 기원 112",
+    "en": "Genshin Impact Wish 112",
+    "ja": "原神 祈願 112",
+    "es": "Genshin Impact Deseo 112"
+  },
+  "targets": [
+    {
+      "id": "Xilonen_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Xilonen_Wish.png"
+    },
+    {
+      "id": "Xingqiu_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Xingqiu_Wish.png"
+    },
+    {
+      "id": "Xinyan_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Xinyan_Wish.png"
+    },
+    {
+      "id": "Yae_Miko_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Yae_Miko_Wish.png"
+    },
+    {
+      "id": "Yanfei_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Yanfei_Wish.png"
+    },
+    {
+      "id": "Yaoyao_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Yaoyao_Wish.png"
+    },
+    {
+      "id": "Yelan_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Yelan_Wish.png"
+    },
+    {
+      "id": "Yoimiya_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Yoimiya_Wish.png"
+    },
+    {
+      "id": "Yumemizuki_Mizuki_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Yumemizuki_Mizuki_Wish.png"
+    },
+    {
+      "id": "Yun_Jin_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Yun_Jin_Wish.png"
+    },
+    {
+      "id": "Zhongli_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Zhongli_Wish.png"
+    },
+    {
+      "id": "Zibai_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Zibai_Wish.png"
+    }
+  ]
+}

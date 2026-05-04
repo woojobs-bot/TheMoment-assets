@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "명조 아이콘 캐릭터",
+    "en": "Wuthering Waves Icon Role",
+    "ja": "鳴潮 アイコンキャラ",
+    "es": "Wuthering Waves Personaje Ícono"
+  },
+  "targets": [
+    {
+      "id": "T_IconRole_Pile_Aimisi_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_Aimisi_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_Bulante_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_Bulante_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_Buling_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_Buling_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_FeiXue_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_FeiXue_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_Feibi_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_Feibi_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_Kamola_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_Kamola_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_Linnai_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_Linnai_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_Luhesi_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_Luhesi_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_Moning_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_Moning_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_Qianxiao_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_Qianxiao_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_Qiuyuan_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_Qiuyuan_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_Shouanren_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_Shouanren_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_Youhu_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_Youhu_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_anke_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_anke_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_aogusita_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_aogusita_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_bailian_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_bailian_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_changli_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_changli_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_daniya_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_daniya_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_dengdeng_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_dengdeng_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_fuluoluo_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_fuluoluo_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_jiabeilina_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_jiabeilina_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_jiexin_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_jiexin_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_jinxi_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_jinxi_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_jiyan_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_jiyan_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_jueyuan_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_jueyuan_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_kakaluo_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_kakaluo_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_kanteleila_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_kanteleila_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_katixiya_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_katixiya_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_kelaita_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_kelaita_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_lingyang_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_lingyang_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_luokeke_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_luokeke_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_lupa_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_lupa_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_micai_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_micai_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_qiushui_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_qiushui_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_shanhua_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_shanhua_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_taohua_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_taohua_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_xiakong_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_xiakong_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_xiangliyao_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_xiangliyao_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_xigelika_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_xigelika_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_yangyang_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_yangyang_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_yinlin_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_yinlin_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_younuo_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_younuo_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_yuanwu_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_yuanwu_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_zanni_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_zanni_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_zhezhi_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_zhezhi_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_zhujue_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_zhujue_UI.png"
+    },
+    {
+      "id": "T_IconRole_Pile_zhujuenan_UI",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/T_IconRole_Pile_zhujuenan_UI.png"
+    },
+    {
+      "id": "Tmp_Role_Tool20",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/Tmp_Role_Tool20.png"
+    },
+    {
+      "id": "Tmp_Role_Tool22",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/wuthering-waves/iconRole/Tmp_Role_Tool22.png"
+    }
+  ]
+}

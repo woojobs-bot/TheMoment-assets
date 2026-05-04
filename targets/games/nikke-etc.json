@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "니케 기타",
+    "en": "NIKKE Etc",
+    "ja": "ニケ その他",
+    "es": "NIKKE Otros"
+  },
+  "targets": [
+    {
+      "id": "Collection-Robot",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Collection-Robot.png"
+    },
+    {
+      "id": "Com",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Com.png"
+    },
+    {
+      "id": "Commander-GODDESS",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Commander-GODDESS.png"
+    },
+    {
+      "id": "Favorite-Bay",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Favorite-Bay.png"
+    },
+    {
+      "id": "Favorite-Dissel",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Favorite-Dissel.png"
+    },
+    {
+      "id": "Favorite-Drake",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Favorite-Drake.png"
+    },
+    {
+      "id": "Favorite-Exia",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Favorite-Exia.png"
+    },
+    {
+      "id": "Favorite-Frima",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Favorite-Frima.png"
+    },
+    {
+      "id": "Favorite-Helm",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Favorite-Helm.png"
+    },
+    {
+      "id": "Favorite-Julia",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Favorite-Julia.png"
+    },
+    {
+      "id": "Favorite-Laplace",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Favorite-Laplace.png"
+    },
+    {
+      "id": "Favorite-Milk",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Favorite-Milk.png"
+    },
+    {
+      "id": "Favorite-Miranda",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Favorite-Miranda.png"
+    },
+    {
+      "id": "Favorite-Poli",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Favorite-Poli.png"
+    },
+    {
+      "id": "Favorite-Tove",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Favorite-Tove.png"
+    },
+    {
+      "id": "Favorite-Viper",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Favorite-Viper.png"
+    },
+    {
+      "id": "Marian-story-00-01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/Marian-story-00-01.png"
+    },
+    {
+      "id": "acpu",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/etc/acpu.png"
+    }
+  ]
+}

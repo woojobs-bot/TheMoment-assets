@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "블루 아카이브 700",
+    "en": "Blue Archive 700",
+    "ja": "ブルーアーカイブ 700",
+    "es": "Blue Archive 700"
+  },
+  "targets": [
+    {
+      "id": "Neru04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Neru04.png"
+    },
+    {
+      "id": "Neru05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Neru05.png"
+    },
+    {
+      "id": "Neru06",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Neru06.png"
+    },
+    {
+      "id": "Niko01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Niko01.png"
+    },
+    {
+      "id": "Niko02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Niko02.png"
+    },
+    {
+      "id": "Niya01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Niya01.png"
+    },
+    {
+      "id": "Niya02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Niya02.png"
+    },
+    {
+      "id": "Noa (Pajama)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Noa%20%28Pajama%2901.png"
+    },
+    {
+      "id": "Noa (Pajama)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Noa%20%28Pajama%2902.png"
+    },
+    {
+      "id": "Noa (Pajama)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Noa%20%28Pajama%2903.png"
+    },
+    {
+      "id": "Noa01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Noa01.png"
+    },
+    {
+      "id": "Noa02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Noa02.png"
+    },
+    {
+      "id": "Noa03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Noa03.png"
+    },
+    {
+      "id": "Nodoka (Hot Spring)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nodoka%20%28Hot%20Spring%2901.png"
+    },
+    {
+      "id": "Nodoka (Hot Spring)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nodoka%20%28Hot%20Spring%2902.png"
+    },
+    {
+      "id": "Nodoka01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nodoka01.png"
+    },
+    {
+      "id": "Nodoka02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nodoka02.png"
+    },
+    {
+      "id": "Nonomi (Swimsuit)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi%20%28Swimsuit%2901.png"
+    },
+    {
+      "id": "Nonomi (Swimsuit)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi%20%28Swimsuit%2902.png"
+    },
+    {
+      "id": "Nonomi (Swimsuit)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi%20%28Swimsuit%2903.png"
+    },
+    {
+      "id": "Nonomi (Swimsuit)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi%20%28Swimsuit%2904.png"
+    },
+    {
+      "id": "Nonomi (Swimsuit)05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi%20%28Swimsuit%2905.png"
+    },
+    {
+      "id": "Nonomi (Swimsuit)06",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi%20%28Swimsuit%2906.png"
+    },
+    {
+      "id": "Nonomi (Swimsuit)07",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi%20%28Swimsuit%2907.png"
+    },
+    {
+      "id": "Nonomi (Swimsuit)08",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi%20%28Swimsuit%2908.png"
+    },
+    {
+      "id": "Nonomi01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi01.png"
+    },
+    {
+      "id": "Nonomi02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi02.png"
+    },
+    {
+      "id": "Nonomi03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi03.png"
+    },
+    {
+      "id": "Nonomi04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi04.png"
+    },
+    {
+      "id": "Nonomi05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi05.png"
+    },
+    {
+      "id": "Nonomi06",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi06.png"
+    },
+    {
+      "id": "Nonomi07",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi07.png"
+    },
+    {
+      "id": "Nonomi08",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nonomi08.png"
+    },
+    {
+      "id": "Nozomi01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Nozomi01.png"
+    },
+    {
+      "id": "Otogi01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Otogi01.png"
+    },
+    {
+      "id": "Pina (Guide)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Pina%20%28Guide%2901.png"
+    },
+    {
+      "id": "Pina (Guide)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Pina%20%28Guide%2902.png"
+    },
+    {
+      "id": "Pina01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Pina01.png"
+    },
+    {
+      "id": "Pina02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Pina02.png"
+    },
+    {
+      "id": "Rabu01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Rabu01.png"
+    },
+    {
+      "id": "Rabu02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Rabu02.png"
+    },
+    {
+      "id": "Rabu03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Rabu03.png"
+    },
+    {
+      "id": "Rei01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Rei01.png"
+    },
+    {
+      "id": "Reijo01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Reijo01.png"
+    },
+    {
+      "id": "Reijo02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Reijo02.png"
+    },
+    {
+      "id": "Reisa (Magical)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Reisa%20%28Magical%2901.png"
+    },
+    {
+      "id": "Reisa (Magical)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Reisa%20%28Magical%2902.png"
+    },
+    {
+      "id": "Reisa01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Reisa01.png"
+    },
+    {
+      "id": "Reisa02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Reisa02.png"
+    },
+    {
+      "id": "Rena01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Rena01.png"
+    },
+    {
+      "id": "Renge (Swimsuit)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Renge%20%28Swimsuit%2901.png"
+    },
+    {
+      "id": "Renge (Swimsuit)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Renge%20%28Swimsuit%2902.png"
+    },
+    {
+      "id": "Renge01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Renge01.png"
+    },
+    {
+      "id": "Renge02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Renge02.png"
+    },
+    {
+      "id": "Rio (Battle)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Rio%20%28Battle%2901.png"
+    },
+    {
+      "id": "Rio (Battle)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Rio%20%28Battle%2902.png"
+    },
+    {
+      "id": "Rio (Battle)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Rio%20%28Battle%2903.png"
+    },
+    {
+      "id": "Rio01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Rio01.png"
+    },
+    {
+      "id": "Rio02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Rio02.png"
+    },
+    {
+      "id": "Rio03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Rio03.png"
+    },
+    {
+      "id": "Ritsu01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ritsu01.png"
+    },
+    {
+      "id": "Rumi01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Rumi01.png"
+    },
+    {
+      "id": "Rumi02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Rumi02.png"
+    },
+    {
+      "id": "Saki (Swimsuit)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saki%20%28Swimsuit%2901.png"
+    },
+    {
+      "id": "Saki (Swimsuit)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saki%20%28Swimsuit%2902.png"
+    },
+    {
+      "id": "Saki (Swimsuit)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saki%20%28Swimsuit%2903.png"
+    },
+    {
+      "id": "Saki (Swimsuit)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saki%20%28Swimsuit%2904.png"
+    },
+    {
+      "id": "Saki01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saki01.png"
+    },
+    {
+      "id": "Saki02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saki02.png"
+    },
+    {
+      "id": "Saki03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saki03.png"
+    },
+    {
+      "id": "Saki04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saki04.png"
+    },
+    {
+      "id": "Sakurako (Idol)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Sakurako%20%28Idol%2901.png"
+    },
+    {
+      "id": "Sakurako (Idol)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Sakurako%20%28Idol%2902.png"
+    },
+    {
+      "id": "Sakurako (Idol)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Sakurako%20%28Idol%2903.png"
+    },
+    {
+      "id": "Sakurako (Idol)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Sakurako%20%28Idol%2904.png"
+    },
+    {
+      "id": "Sakurako01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Sakurako01.png"
+    },
+    {
+      "id": "Sakurako02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Sakurako02.png"
+    },
+    {
+      "id": "Sakurako03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Sakurako03.png"
+    },
+    {
+      "id": "Sakurako04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Sakurako04.png"
+    },
+    {
+      "id": "Saori (Dress)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Dress%2901.png"
+    },
+    {
+      "id": "Saori (Dress)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Dress%2902.png"
+    },
+    {
+      "id": "Saori (Dress)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Dress%2903.png"
+    },
+    {
+      "id": "Saori (Dress)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Dress%2904.png"
+    },
+    {
+      "id": "Saori (Dress)05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Dress%2905.png"
+    },
+    {
+      "id": "Saori (Dress)06",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Dress%2906.png"
+    },
+    {
+      "id": "Saori (Dress)07",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Dress%2907.png"
+    },
+    {
+      "id": "Saori (Swimsuit)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Swimsuit%2901.png"
+    },
+    {
+      "id": "Saori (Swimsuit)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Swimsuit%2902.png"
+    },
+    {
+      "id": "Saori (Swimsuit)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Swimsuit%2903.png"
+    },
+    {
+      "id": "Saori (Swimsuit)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Swimsuit%2904.png"
+    },
+    {
+      "id": "Saori (Swimsuit)05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Swimsuit%2905.png"
+    },
+    {
+      "id": "Saori (Swimsuit)06",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Swimsuit%2906.png"
+    },
+    {
+      "id": "Saori (Swimsuit)07",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori%20%28Swimsuit%2907.png"
+    },
+    {
+      "id": "Saori01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori01.png"
+    },
+    {
+      "id": "Saori02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori02.png"
+    },
+    {
+      "id": "Saori03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori03.png"
+    },
+    {
+      "id": "Saori04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori04.png"
+    },
+    {
+      "id": "Saori05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori05.png"
+    },
+    {
+      "id": "Saori06",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori06.png"
+    },
+    {
+      "id": "Saori07",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Saori07.png"
+    }
+  ]
+}

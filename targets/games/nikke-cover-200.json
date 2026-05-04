@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "니케 커버 200",
+    "en": "NIKKE Cover 200",
+    "ja": "ニケ カバー 200",
+    "es": "NIKKE Portada 200"
+  },
+  "targets": [
+    {
+      "id": "Eunhwa-Upgrade-Dayoff-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Eunhwa-Upgrade-Dayoff-cover.png"
+    },
+    {
+      "id": "Eunhwa-Upgrade-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Eunhwa-Upgrade-cover.png"
+    },
+    {
+      "id": "Eunhwa-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Eunhwa-cover.png"
+    },
+    {
+      "id": "Eve-Keyhole-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Eve-Keyhole-cover.png"
+    },
+    {
+      "id": "Eve-Neurolink-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Eve-Neurolink-cover.png"
+    },
+    {
+      "id": "Eve-Skin-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Eve-Skin-cover.png"
+    },
+    {
+      "id": "Eve-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Eve-cover.png"
+    },
+    {
+      "id": "Exia-Gamer-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Exia-Gamer-cover.png"
+    },
+    {
+      "id": "Exia-Hacker-Rabbit-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Exia-Hacker-Rabbit-cover.png"
+    },
+    {
+      "id": "Exia-Nerds-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Exia-Nerds-cover.png"
+    },
+    {
+      "id": "Exia-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Exia-cover.png"
+    },
+    {
+      "id": "Flora-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Flora-cover.png"
+    },
+    {
+      "id": "Folkwang-Bunny-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Folkwang-Bunny-cover.png"
+    },
+    {
+      "id": "Folkwang-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Folkwang-cover.png"
+    },
+    {
+      "id": "Frima-Sea-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Frima-Sea-cover.png"
+    },
+    {
+      "id": "Frima-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Frima-cover.png"
+    },
+    {
+      "id": "Grave-GraGre-Beatiful-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Grave-GraGre-Beatiful-cover.png"
+    },
+    {
+      "id": "Grave-GraGre-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Grave-GraGre-cover.png"
+    },
+    {
+      "id": "Guillotine-DarkTracer-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Guillotine-DarkTracer-cover.png"
+    },
+    {
+      "id": "Guillotine-Winter-Slayer-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Guillotine-Winter-Slayer-cover.png"
+    },
+    {
+      "id": "Guillotine-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Guillotine-cover.png"
+    },
+    {
+      "id": "Guilty-Wave-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Guilty-Wave-cover.png"
+    },
+    {
+      "id": "Guilty-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Guilty-cover.png"
+    },
+    {
+      "id": "Harran-Witch-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Harran-Witch-cover.png"
+    },
+    {
+      "id": "Harran-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Harran-cover.png"
+    },
+    {
+      "id": "Helm-Aquamarine-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Helm-Aquamarine-cover.png"
+    },
+    {
+      "id": "Helm-Chandelier-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Helm-Chandelier-cover.png"
+    },
+    {
+      "id": "Helm-Post-Shower-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Helm-Post-Shower-cover.png"
+    },
+    {
+      "id": "Helm-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Helm-cover.png"
+    },
+    {
+      "id": "Hua-Pi-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Hua-Pi-cover.png"
+    },
+    {
+      "id": "Isabel-Honeymoon-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Isabel-Honeymoon-cover.png"
+    },
+    {
+      "id": "Isabel-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Isabel-cover.png"
+    },
+    {
+      "id": "Jackal-Class-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Jackal-Class-cover.png"
+    },
+    {
+      "id": "Jackal-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Jackal-cover.png"
+    },
+    {
+      "id": "Jill-Battle-Suit-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Jill-Battle-Suit-cover.png"
+    },
+    {
+      "id": "Jill-Classic-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Jill-Classic-cover.png"
+    },
+    {
+      "id": "Jill-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Jill-cover.png"
+    },
+    {
+      "id": "Julia-Mild-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Julia-Mild-cover.png"
+    },
+    {
+      "id": "Julia-Summer-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Julia-Summer-cover.png"
+    },
+    {
+      "id": "Julia-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Julia-cover.png"
+    },
+    {
+      "id": "K-Undercover-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/K-Undercover-cover.png"
+    },
+    {
+      "id": "K-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/K-cover.png"
+    },
+    {
+      "id": "Kilo-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Kilo-cover.png"
+    },
+    {
+      "id": "Kurumi-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Kurumi-cover.png"
+    },
+    {
+      "id": "Label-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Label-cover.png"
+    },
+    {
+      "id": "Laplace-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Laplace-cover.png"
+    },
+    {
+      "id": "Leona-Zoo-Keeper-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Leona-Zoo-Keeper-cover.png"
+    },
+    {
+      "id": "Leona-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Leona-cover.png"
+    },
+    {
+      "id": "Liberalio-Dreaming-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Liberalio-Dreaming-cover.png"
+    },
+    {
+      "id": "Liberalio-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Liberalio-cover.png"
+    },
+    {
+      "id": "Lily-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Lily-cover.png"
+    },
+    {
+      "id": "Liter-CN-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Liter-CN-cover.png"
+    },
+    {
+      "id": "Liter-Cute-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Liter-Cute-cover.png"
+    },
+    {
+      "id": "Liter-Guardfish-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Liter-Guardfish-cover.png"
+    },
+    {
+      "id": "Liter-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Liter-cover.png"
+    },
+    {
+      "id": "Ludmilla-Winter-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Ludmilla-Winter-cover.png"
+    },
+    {
+      "id": "Ludmilla-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Ludmilla-cover.png"
+    },
+    {
+      "id": "Maiden-Ice-Rose-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Maiden-Ice-Rose-cover.png"
+    },
+    {
+      "id": "Maiden-Nurse-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Maiden-Nurse-cover.png"
+    },
+    {
+      "id": "Maiden-Under-Sun-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Maiden-Under-Sun-cover.png"
+    },
+    {
+      "id": "Maiden-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Maiden-cover.png"
+    },
+    {
+      "id": "Makima-Coat-Off-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Makima-Coat-Off-cover.png"
+    },
+    {
+      "id": "Makima-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Makima-cover.png"
+    },
+    {
+      "id": "Mana-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mana-cover.png"
+    },
+    {
+      "id": "Marciana-School-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Marciana-School-cover.png"
+    },
+    {
+      "id": "Marciana-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Marciana-cover.png"
+    },
+    {
+      "id": "Mari-Final-Battle-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mari-Final-Battle-cover.png"
+    },
+    {
+      "id": "Mari-Leisure-Travel-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mari-Leisure-Travel-cover.png"
+    },
+    {
+      "id": "Mari-Mystery-Muse-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mari-Mystery-Muse-cover.png"
+    },
+    {
+      "id": "Mari-School-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mari-School-cover.png"
+    },
+    {
+      "id": "Mari-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mari-cover.png"
+    },
+    {
+      "id": "Marian-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Marian-cover.png"
+    },
+    {
+      "id": "Mary-Bay-Goddess-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mary-Bay-Goddess-cover.png"
+    },
+    {
+      "id": "Mary-Rabbit-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mary-Rabbit-cover.png"
+    },
+    {
+      "id": "Mary-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mary-cover.png"
+    },
+    {
+      "id": "Mast-Diver-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mast-Diver-cover.png"
+    },
+    {
+      "id": "Mast-Heart-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mast-Heart-cover.png"
+    },
+    {
+      "id": "Mast-Romantic-Maid-Tea-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mast-Romantic-Maid-Tea-cover.png"
+    },
+    {
+      "id": "Mast-Romantic-Maid-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mast-Romantic-Maid-cover.png"
+    },
+    {
+      "id": "Mast-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mast-cover.png"
+    },
+    {
+      "id": "Maxwell-Mechanic-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Maxwell-Mechanic-cover.png"
+    },
+    {
+      "id": "Maxwell-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Maxwell-cover.png"
+    },
+    {
+      "id": "Mecani-Shifty-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mecani-Shifty-cover.png"
+    },
+    {
+      "id": "Mecha-Shifty-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mecha-Shifty-cover.png"
+    },
+    {
+      "id": "Mica-Buddy-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mica-Buddy-cover.png"
+    },
+    {
+      "id": "Mica-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mica-cover.png"
+    },
+    {
+      "id": "Mihara-Bonding-Chain-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mihara-Bonding-Chain-cover.png"
+    },
+    {
+      "id": "Mihara-Paint-Eater-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mihara-Paint-Eater-cover.png"
+    },
+    {
+      "id": "Mihara-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Mihara-cover.png"
+    },
+    {
+      "id": "Milk-Blooming-Bunny-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Milk-Blooming-Bunny-cover.png"
+    },
+    {
+      "id": "Milk-Extreme-Fighter-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Milk-Extreme-Fighter-cover.png"
+    },
+    {
+      "id": "Milk-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Milk-cover.png"
+    },
+    {
+      "id": "Miranda-Justice-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Miranda-Justice-cover.png"
+    },
+    {
+      "id": "Miranda-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Miranda-cover.png"
+    },
+    {
+      "id": "Misato-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Misato-cover.png"
+    },
+    {
+      "id": "Modernia-CN-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Modernia-CN-cover.png"
+    },
+    {
+      "id": "Modernia-First-Affection-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Modernia-First-Affection-cover.png"
+    },
+    {
+      "id": "Modernia-Second-Affection-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Modernia-Second-Affection-cover.png"
+    },
+    {
+      "id": "Modernia-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Modernia-cover.png"
+    },
+    {
+      "id": "Moran-Off-Duty-Queen-cover",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/cover/Moran-Off-Duty-Queen-cover.png"
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "블루 아카이브 400",
+    "en": "Blue Archive 400",
+    "ja": "ブルーアーカイブ 400",
+    "es": "Blue Archive 400"
+  },
+  "targets": [
+    {
+      "id": "Hoshino17",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Hoshino17.png"
+    },
+    {
+      "id": "Hoshino18",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Hoshino18.png"
+    },
+    {
+      "id": "Ibuki01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ibuki01.png"
+    },
+    {
+      "id": "Ibuki02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ibuki02.png"
+    },
+    {
+      "id": "Ichika (Swimsuit)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ichika%20%28Swimsuit%2901.png"
+    },
+    {
+      "id": "Ichika (Swimsuit)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ichika%20%28Swimsuit%2902.png"
+    },
+    {
+      "id": "Ichika (Swimsuit)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ichika%20%28Swimsuit%2903.png"
+    },
+    {
+      "id": "Ichika01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ichika01.png"
+    },
+    {
+      "id": "Ichika02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ichika02.png"
+    },
+    {
+      "id": "Ichika03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ichika03.png"
+    },
+    {
+      "id": "Iori (Swimsuit)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Iori%20%28Swimsuit%2901.png"
+    },
+    {
+      "id": "Iori (Swimsuit)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Iori%20%28Swimsuit%2902.png"
+    },
+    {
+      "id": "Iori01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Iori01.png"
+    },
+    {
+      "id": "Iori02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Iori02.png"
+    },
+    {
+      "id": "Iroha01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Iroha01.png"
+    },
+    {
+      "id": "Izumi (New Year)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izumi%20%28New%20Year%2901.png"
+    },
+    {
+      "id": "Izumi (New Year)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izumi%20%28New%20Year%2902.png"
+    },
+    {
+      "id": "Izumi (New Year)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izumi%20%28New%20Year%2903.png"
+    },
+    {
+      "id": "Izumi (New Year)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izumi%20%28New%20Year%2904.png"
+    },
+    {
+      "id": "Izumi (Swimsuit)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izumi%20%28Swimsuit%2901.png"
+    },
+    {
+      "id": "Izumi (Swimsuit)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izumi%20%28Swimsuit%2902.png"
+    },
+    {
+      "id": "Izumi (Swimsuit)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izumi%20%28Swimsuit%2903.png"
+    },
+    {
+      "id": "Izumi (Swimsuit)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izumi%20%28Swimsuit%2904.png"
+    },
+    {
+      "id": "Izumi01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izumi01.png"
+    },
+    {
+      "id": "Izumi02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izumi02.png"
+    },
+    {
+      "id": "Izumi03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izumi03.png"
+    },
+    {
+      "id": "Izumi04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izumi04.png"
+    },
+    {
+      "id": "Izuna (Swimsuit)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izuna%20%28Swimsuit%2901.png"
+    },
+    {
+      "id": "Izuna (Swimsuit)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izuna%20%28Swimsuit%2902.png"
+    },
+    {
+      "id": "Izuna (Swimsuit)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izuna%20%28Swimsuit%2903.png"
+    },
+    {
+      "id": "Izuna (Swimsuit)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izuna%20%28Swimsuit%2904.png"
+    },
+    {
+      "id": "Izuna01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izuna01.png"
+    },
+    {
+      "id": "Izuna02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izuna02.png"
+    },
+    {
+      "id": "Izuna03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izuna03.png"
+    },
+    {
+      "id": "Izuna04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Izuna04.png"
+    },
+    {
+      "id": "Junko (New Year)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Junko%20%28New%20Year%2901.png"
+    },
+    {
+      "id": "Junko (New Year)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Junko%20%28New%20Year%2902.png"
+    },
+    {
+      "id": "Junko (New Year)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Junko%20%28New%20Year%2903.png"
+    },
+    {
+      "id": "Junko01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Junko01.png"
+    },
+    {
+      "id": "Junko02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Junko02.png"
+    },
+    {
+      "id": "Junko03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Junko03.png"
+    },
+    {
+      "id": "Juri (Part-Timer)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Juri%20%28Part-Timer%2901.png"
+    },
+    {
+      "id": "Juri (Part-Timer)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Juri%20%28Part-Timer%2902.png"
+    },
+    {
+      "id": "Juri01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Juri01.png"
+    },
+    {
+      "id": "Juri02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Juri02.png"
+    },
+    {
+      "id": "Kaede01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kaede01.png"
+    },
+    {
+      "id": "Kaede02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kaede02.png"
+    },
+    {
+      "id": "Kaede03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kaede03.png"
+    },
+    {
+      "id": "Kaho01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kaho01.png"
+    },
+    {
+      "id": "Kanna (Swimsuit)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kanna%20%28Swimsuit%2901.png"
+    },
+    {
+      "id": "Kanna (Swimsuit)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kanna%20%28Swimsuit%2902.png"
+    },
+    {
+      "id": "Kanna (Swimsuit)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kanna%20%28Swimsuit%2903.png"
+    },
+    {
+      "id": "Kanna01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kanna01.png"
+    },
+    {
+      "id": "Kanna02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kanna02.png"
+    },
+    {
+      "id": "Kanna03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kanna03.png"
+    },
+    {
+      "id": "Kanoe01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kanoe01.png"
+    },
+    {
+      "id": "Karin (Bunny Girl)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Karin%20%28Bunny%20Girl%2901.png"
+    },
+    {
+      "id": "Karin (Bunny Girl)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Karin%20%28Bunny%20Girl%2902.png"
+    },
+    {
+      "id": "Karin (Bunny Girl)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Karin%20%28Bunny%20Girl%2903.png"
+    },
+    {
+      "id": "Karin (School Uniform)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Karin%20%28School%20Uniform%2901.png"
+    },
+    {
+      "id": "Karin (School Uniform)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Karin%20%28School%20Uniform%2902.png"
+    },
+    {
+      "id": "Karin (School Uniform)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Karin%20%28School%20Uniform%2903.png"
+    },
+    {
+      "id": "Karin01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Karin01.png"
+    },
+    {
+      "id": "Karin02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Karin02.png"
+    },
+    {
+      "id": "Karin03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Karin03.png"
+    },
+    {
+      "id": "Kasumi01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kasumi01.png"
+    },
+    {
+      "id": "Kasumi02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kasumi02.png"
+    },
+    {
+      "id": "Kasumi03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kasumi03.png"
+    },
+    {
+      "id": "Kayoko (Dress)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kayoko%20%28Dress%2901.png"
+    },
+    {
+      "id": "Kayoko (Dress)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kayoko%20%28Dress%2902.png"
+    },
+    {
+      "id": "Kayoko (Dress)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kayoko%20%28Dress%2903.png"
+    },
+    {
+      "id": "Kayoko (Dress)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kayoko%20%28Dress%2904.png"
+    },
+    {
+      "id": "Kayoko (New Year)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kayoko%20%28New%20Year%2901.png"
+    },
+    {
+      "id": "Kayoko (New Year)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kayoko%20%28New%20Year%2902.png"
+    },
+    {
+      "id": "Kayoko (New Year)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kayoko%20%28New%20Year%2903.png"
+    },
+    {
+      "id": "Kayoko (New Year)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kayoko%20%28New%20Year%2904.png"
+    },
+    {
+      "id": "Kayoko01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kayoko01.png"
+    },
+    {
+      "id": "Kayoko02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kayoko02.png"
+    },
+    {
+      "id": "Kayoko03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kayoko03.png"
+    },
+    {
+      "id": "Kayoko04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kayoko04.png"
+    },
+    {
+      "id": "Kazusa (Band)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kazusa%20%28Band%2901.png"
+    },
+    {
+      "id": "Kazusa (Band)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kazusa%20%28Band%2902.png"
+    },
+    {
+      "id": "Kazusa (Band)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kazusa%20%28Band%2903.png"
+    },
+    {
+      "id": "Kazusa (Band)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kazusa%20%28Band%2904.png"
+    },
+    {
+      "id": "Kazusa (Band)05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kazusa%20%28Band%2905.png"
+    },
+    {
+      "id": "Kazusa01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kazusa01.png"
+    },
+    {
+      "id": "Kazusa02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kazusa02.png"
+    },
+    {
+      "id": "Kazusa03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kazusa03.png"
+    },
+    {
+      "id": "Kazusa04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kazusa04.png"
+    },
+    {
+      "id": "Kazusa05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kazusa05.png"
+    },
+    {
+      "id": "Kei01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kei01.png"
+    },
+    {
+      "id": "Kei02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kei02.png"
+    },
+    {
+      "id": "Kei03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kei03.png"
+    },
+    {
+      "id": "Kei04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kei04.png"
+    },
+    {
+      "id": "Kikyou (Swimsuit)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kikyou%20%28Swimsuit%2901.png"
+    },
+    {
+      "id": "Kikyou (Swimsuit)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kikyou%20%28Swimsuit%2902.png"
+    },
+    {
+      "id": "Kikyou01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kikyou01.png"
+    },
+    {
+      "id": "Kikyou02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kikyou02.png"
+    },
+    {
+      "id": "Kirara01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kirara01.png"
+    },
+    {
+      "id": "Kirara02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Kirara02.png"
+    }
+  ]
+}

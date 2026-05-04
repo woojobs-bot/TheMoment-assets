@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "니케 전신 407",
+    "en": "NIKKE Full Body 407",
+    "ja": "ニケ 全身 407",
+    "es": "NIKKE Cuerpo Completo 407"
+  },
+  "targets": [
+    {
+      "id": "Yulha-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Yulha-fullbody.png"
+    },
+    {
+      "id": "Yuni-Pretty-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Yuni-Pretty-fullbody.png"
+    },
+    {
+      "id": "Yuni-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Yuni-fullbody.png"
+    },
+    {
+      "id": "Ziz-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Ziz-fullbody.png"
+    },
+    {
+      "id": "Zwei-FirstFesta-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Zwei-FirstFesta-fullbody.png"
+    },
+    {
+      "id": "Zwei-SpringStroll-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Zwei-SpringStroll-fullbody.png"
+    },
+    {
+      "id": "Zwei-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Zwei-fullbody.png"
+    }
+  ]
+}

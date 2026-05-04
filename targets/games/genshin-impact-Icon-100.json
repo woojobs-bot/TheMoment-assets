@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "원신 아이콘 100",
+    "en": "Genshin Impact Icon 100",
+    "ja": "原神 アイコン 100",
+    "es": "Genshin Impact Ícono 100"
+  },
+  "targets": [
+    {
+      "id": "Aino_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Aino_Icon.png"
+    },
+    {
+      "id": "Albedo_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Albedo_Icon.png"
+    },
+    {
+      "id": "Alhaitham_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Alhaitham_Icon.png"
+    },
+    {
+      "id": "Aloy_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Aloy_Icon.png"
+    },
+    {
+      "id": "Amber_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Amber_Icon.png"
+    },
+    {
+      "id": "Arataki_Itto_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Arataki_Itto_Icon.png"
+    },
+    {
+      "id": "Arlecchino_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Arlecchino_Icon.png"
+    },
+    {
+      "id": "Baizhu_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Baizhu_Icon.png"
+    },
+    {
+      "id": "Barbara_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Barbara_Icon.png"
+    },
+    {
+      "id": "Beidou_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Beidou_Icon.png"
+    },
+    {
+      "id": "Bennett_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Bennett_Icon.png"
+    },
+    {
+      "id": "Candace_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Candace_Icon.png"
+    },
+    {
+      "id": "Charlotte_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Charlotte_Icon.png"
+    },
+    {
+      "id": "Chasca_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Chasca_Icon.png"
+    },
+    {
+      "id": "Chevreuse_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Chevreuse_Icon.png"
+    },
+    {
+      "id": "Chiori_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Chiori_Icon.png"
+    },
+    {
+      "id": "Chongyun_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Chongyun_Icon.png"
+    },
+    {
+      "id": "Citlali_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Citlali_Icon.png"
+    },
+    {
+      "id": "Clorinde_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Clorinde_Icon.png"
+    },
+    {
+      "id": "Collei_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Collei_Icon.png"
+    },
+    {
+      "id": "Columbina_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Columbina_Icon.png"
+    },
+    {
+      "id": "Cyno_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Cyno_Icon.png"
+    },
+    {
+      "id": "Dahlia_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Dahlia_Icon.png"
+    },
+    {
+      "id": "Dainsleif_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Dainsleif_Icon.png"
+    },
+    {
+      "id": "Dehya_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Dehya_Icon.png"
+    },
+    {
+      "id": "Diluc_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Diluc_Icon.png"
+    },
+    {
+      "id": "Diona_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Diona_Icon.png"
+    },
+    {
+      "id": "Dori_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Dori_Icon.png"
+    },
+    {
+      "id": "Durin_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Durin_Icon.png"
+    },
+    {
+      "id": "Emilie_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Emilie_Icon.png"
+    },
+    {
+      "id": "Escoffier_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Escoffier_Icon.png"
+    },
+    {
+      "id": "Eula_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Eula_Icon.png"
+    },
+    {
+      "id": "Faruzan_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Faruzan_Icon.png"
+    },
+    {
+      "id": "Fischl_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Fischl_Icon.png"
+    },
+    {
+      "id": "Flins_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Flins_Icon.png"
+    },
+    {
+      "id": "Freminet_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Freminet_Icon.png"
+    },
+    {
+      "id": "Furina_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Furina_Icon.png"
+    },
+    {
+      "id": "Gaming_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Gaming_Icon.png"
+    },
+    {
+      "id": "Ganyu_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Ganyu_Icon.png"
+    },
+    {
+      "id": "Gorou_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Gorou_Icon.png"
+    },
+    {
+      "id": "Hu_Tao_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Hu_Tao_Icon.png"
+    },
+    {
+      "id": "Iansan_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Iansan_Icon.png"
+    },
+    {
+      "id": "Ifa_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Ifa_Icon.png"
+    },
+    {
+      "id": "Illuga_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Illuga_Icon.png"
+    },
+    {
+      "id": "Ineffa_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Ineffa_Icon.png"
+    },
+    {
+      "id": "Jahoda_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Jahoda_Icon.png"
+    },
+    {
+      "id": "Jean_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Jean_Icon.png"
+    },
+    {
+      "id": "Kachina_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Kachina_Icon.png"
+    },
+    {
+      "id": "Kaedehara_Kazuha_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Kaedehara_Kazuha_Icon.png"
+    },
+    {
+      "id": "Kaeya_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Kaeya_Icon.png"
+    },
+    {
+      "id": "Kamisato_Ayaka_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Kamisato_Ayaka_Icon.png"
+    },
+    {
+      "id": "Kamisato_Ayato_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Kamisato_Ayato_Icon.png"
+    },
+    {
+      "id": "Kaveh_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Kaveh_Icon.png"
+    },
+    {
+      "id": "Keqing_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Keqing_Icon.png"
+    },
+    {
+      "id": "Kinich_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Kinich_Icon.png"
+    },
+    {
+      "id": "Kirara_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Kirara_Icon.png"
+    },
+    {
+      "id": "Klee_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Klee_Icon.png"
+    },
+    {
+      "id": "Kujou_Sara_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Kujou_Sara_Icon.png"
+    },
+    {
+      "id": "Kuki_Shinobu_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Kuki_Shinobu_Icon.png"
+    },
+    {
+      "id": "Lan_Yan_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Lan_Yan_Icon.png"
+    },
+    {
+      "id": "Lauma_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Lauma_Icon.png"
+    },
+    {
+      "id": "Layla_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Layla_Icon.png"
+    },
+    {
+      "id": "Linnea_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Linnea_Icon.png"
+    },
+    {
+      "id": "Lisa_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Lisa_Icon.png"
+    },
+    {
+      "id": "Lohen_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Lohen_Icon.png"
+    },
+    {
+      "id": "Lynette_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Lynette_Icon.png"
+    },
+    {
+      "id": "Lyney_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Lyney_Icon.png"
+    },
+    {
+      "id": "Mavuika_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Mavuika_Icon.png"
+    },
+    {
+      "id": "Mika_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Mika_Icon.png"
+    },
+    {
+      "id": "Mona_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Mona_Icon.png"
+    },
+    {
+      "id": "Mualani_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Mualani_Icon.png"
+    },
+    {
+      "id": "Nahida_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Nahida_Icon.png"
+    },
+    {
+      "id": "Navia_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Navia_Icon.png"
+    },
+    {
+      "id": "Nefer_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Nefer_Icon.png"
+    },
+    {
+      "id": "Neuvillette_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Neuvillette_Icon.png"
+    },
+    {
+      "id": "Nicole_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Nicole_Icon.png"
+    },
+    {
+      "id": "Nilou_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Nilou_Icon.png"
+    },
+    {
+      "id": "Ningguang_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Ningguang_Icon.png"
+    },
+    {
+      "id": "Noelle_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Noelle_Icon.png"
+    },
+    {
+      "id": "Ororon_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Ororon_Icon.png"
+    },
+    {
+      "id": "Prune_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Prune_Icon.png"
+    },
+    {
+      "id": "Qiqi_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Qiqi_Icon.png"
+    },
+    {
+      "id": "Raiden_Shogun_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Raiden_Shogun_Icon.png"
+    },
+    {
+      "id": "Razor_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Razor_Icon.png"
+    },
+    {
+      "id": "Rosaria_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Rosaria_Icon.png"
+    },
+    {
+      "id": "Sangonomiya_Kokomi_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Sangonomiya_Kokomi_Icon.png"
+    },
+    {
+      "id": "Sayu_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Sayu_Icon.png"
+    },
+    {
+      "id": "Sethos_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Sethos_Icon.png"
+    },
+    {
+      "id": "Shenhe_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Shenhe_Icon.png"
+    },
+    {
+      "id": "Shikanoin_Heizou_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Shikanoin_Heizou_Icon.png"
+    },
+    {
+      "id": "Sigewinne_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Sigewinne_Icon.png"
+    },
+    {
+      "id": "Skirk_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Skirk_Icon.png"
+    },
+    {
+      "id": "Sucrose_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Sucrose_Icon.png"
+    },
+    {
+      "id": "Tartaglia_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Tartaglia_Icon.png"
+    },
+    {
+      "id": "Thoma_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Thoma_Icon.png"
+    },
+    {
+      "id": "Tighnari_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Tighnari_Icon.png"
+    },
+    {
+      "id": "Traveler_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Traveler_Icon.png"
+    },
+    {
+      "id": "Varesa_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Varesa_Icon.png"
+    },
+    {
+      "id": "Varka_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Varka_Icon.png"
+    },
+    {
+      "id": "Venti_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Venti_Icon.png"
+    }
+  ]
+}

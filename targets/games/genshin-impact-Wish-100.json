@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "원신 기원 100",
+    "en": "Genshin Impact Wish 100",
+    "ja": "原神 祈願 100",
+    "es": "Genshin Impact Deseo 100"
+  },
+  "targets": [
+    {
+      "id": "Aino_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Aino_Wish.png"
+    },
+    {
+      "id": "Albedo_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Albedo_Wish.png"
+    },
+    {
+      "id": "Alhaitham_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Alhaitham_Wish.png"
+    },
+    {
+      "id": "Aloy_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Aloy_Wish.png"
+    },
+    {
+      "id": "Amber_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Amber_Wish.png"
+    },
+    {
+      "id": "Arataki_Itto_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Arataki_Itto_Wish.png"
+    },
+    {
+      "id": "Arlecchino_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Arlecchino_Wish.png"
+    },
+    {
+      "id": "Baizhu_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Baizhu_Wish.png"
+    },
+    {
+      "id": "Barbara_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Barbara_Wish.png"
+    },
+    {
+      "id": "Beidou_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Beidou_Wish.png"
+    },
+    {
+      "id": "Bennett_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Bennett_Wish.png"
+    },
+    {
+      "id": "Candace_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Candace_Wish.png"
+    },
+    {
+      "id": "Charlotte_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Charlotte_Wish.png"
+    },
+    {
+      "id": "Chasca_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Chasca_Wish.png"
+    },
+    {
+      "id": "Chevreuse_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Chevreuse_Wish.png"
+    },
+    {
+      "id": "Chiori_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Chiori_Wish.png"
+    },
+    {
+      "id": "Chongyun_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Chongyun_Wish.png"
+    },
+    {
+      "id": "Citlali_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Citlali_Wish.png"
+    },
+    {
+      "id": "Clorinde_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Clorinde_Wish.png"
+    },
+    {
+      "id": "Collei_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Collei_Wish.png"
+    },
+    {
+      "id": "Columbina_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Columbina_Wish.png"
+    },
+    {
+      "id": "Cyno_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Cyno_Wish.png"
+    },
+    {
+      "id": "Dahlia_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Dahlia_Wish.png"
+    },
+    {
+      "id": "Dehya_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Dehya_Wish.png"
+    },
+    {
+      "id": "Diluc_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Diluc_Wish.png"
+    },
+    {
+      "id": "Diona_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Diona_Wish.png"
+    },
+    {
+      "id": "Dori_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Dori_Wish.png"
+    },
+    {
+      "id": "Durin_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Durin_Wish.png"
+    },
+    {
+      "id": "Emilie_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Emilie_Wish.png"
+    },
+    {
+      "id": "Escoffier_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Escoffier_Wish.png"
+    },
+    {
+      "id": "Eula_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Eula_Wish.png"
+    },
+    {
+      "id": "Faruzan_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Faruzan_Wish.png"
+    },
+    {
+      "id": "Fischl_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Fischl_Wish.png"
+    },
+    {
+      "id": "Flins_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Flins_Wish.png"
+    },
+    {
+      "id": "Freminet_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Freminet_Wish.png"
+    },
+    {
+      "id": "Furina_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Furina_Wish.png"
+    },
+    {
+      "id": "Gaming_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Gaming_Wish.png"
+    },
+    {
+      "id": "Ganyu_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Ganyu_Wish.png"
+    },
+    {
+      "id": "Gorou_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Gorou_Wish.png"
+    },
+    {
+      "id": "Hu_Tao_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Hu_Tao_Wish.png"
+    },
+    {
+      "id": "Iansan_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Iansan_Wish.png"
+    },
+    {
+      "id": "Ifa_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Ifa_Wish.png"
+    },
+    {
+      "id": "Illuga_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Illuga_Wish.png"
+    },
+    {
+      "id": "Ineffa_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Ineffa_Wish.png"
+    },
+    {
+      "id": "Jahoda_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Jahoda_Wish.png"
+    },
+    {
+      "id": "Jean_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Jean_Wish.png"
+    },
+    {
+      "id": "Kachina_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Kachina_Wish.png"
+    },
+    {
+      "id": "Kaedehara_Kazuha_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Kaedehara_Kazuha_Wish.png"
+    },
+    {
+      "id": "Kaeya_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Kaeya_Wish.png"
+    },
+    {
+      "id": "Kamisato_Ayaka_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Kamisato_Ayaka_Wish.png"
+    },
+    {
+      "id": "Kamisato_Ayato_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Kamisato_Ayato_Wish.png"
+    },
+    {
+      "id": "Kaveh_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Kaveh_Wish.png"
+    },
+    {
+      "id": "Keqing_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Keqing_Wish.png"
+    },
+    {
+      "id": "Kinich_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Kinich_Wish.png"
+    },
+    {
+      "id": "Kirara_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Kirara_Wish.png"
+    },
+    {
+      "id": "Klee_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Klee_Wish.png"
+    },
+    {
+      "id": "Kujou_Sara_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Kujou_Sara_Wish.png"
+    },
+    {
+      "id": "Kuki_Shinobu_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Kuki_Shinobu_Wish.png"
+    },
+    {
+      "id": "Lan_Yan_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Lan_Yan_Wish.png"
+    },
+    {
+      "id": "Lauma_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Lauma_Wish.png"
+    },
+    {
+      "id": "Layla_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Layla_Wish.png"
+    },
+    {
+      "id": "Linnea_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Linnea_Wish.png"
+    },
+    {
+      "id": "Lisa_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Lisa_Wish.png"
+    },
+    {
+      "id": "Lynette_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Lynette_Wish.png"
+    },
+    {
+      "id": "Lyney_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Lyney_Wish.png"
+    },
+    {
+      "id": "Mavuika_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Mavuika_Wish.png"
+    },
+    {
+      "id": "Mika_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Mika_Wish.png"
+    },
+    {
+      "id": "Mona_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Mona_Wish.png"
+    },
+    {
+      "id": "Mualani_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Mualani_Wish.png"
+    },
+    {
+      "id": "Nahida_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Nahida_Wish.png"
+    },
+    {
+      "id": "Navia_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Navia_Wish.png"
+    },
+    {
+      "id": "Nefer_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Nefer_Wish.png"
+    },
+    {
+      "id": "Neuvillette_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Neuvillette_Wish.png"
+    },
+    {
+      "id": "Nilou_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Nilou_Wish.png"
+    },
+    {
+      "id": "Ningguang_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Ningguang_Wish.png"
+    },
+    {
+      "id": "Noelle_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Noelle_Wish.png"
+    },
+    {
+      "id": "Ororon_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Ororon_Wish.png"
+    },
+    {
+      "id": "Qiqi_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Qiqi_Wish.png"
+    },
+    {
+      "id": "Raiden_Shogun_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Raiden_Shogun_Wish.png"
+    },
+    {
+      "id": "Razor_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Razor_Wish.png"
+    },
+    {
+      "id": "Rosaria_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Rosaria_Wish.png"
+    },
+    {
+      "id": "Sangonomiya_Kokomi_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Sangonomiya_Kokomi_Wish.png"
+    },
+    {
+      "id": "Sayu_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Sayu_Wish.png"
+    },
+    {
+      "id": "Sethos_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Sethos_Wish.png"
+    },
+    {
+      "id": "Shenhe_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Shenhe_Wish.png"
+    },
+    {
+      "id": "Shikanoin_Heizou_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Shikanoin_Heizou_Wish.png"
+    },
+    {
+      "id": "Sigewinne_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Sigewinne_Wish.png"
+    },
+    {
+      "id": "Skirk_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Skirk_Wish.png"
+    },
+    {
+      "id": "Sucrose_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Sucrose_Wish.png"
+    },
+    {
+      "id": "Tartaglia_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Tartaglia_Wish.png"
+    },
+    {
+      "id": "Thoma_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Thoma_Wish.png"
+    },
+    {
+      "id": "Tighnari_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Tighnari_Wish.png"
+    },
+    {
+      "id": "Varesa_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Varesa_Wish.png"
+    },
+    {
+      "id": "Varka_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Varka_Wish.png"
+    },
+    {
+      "id": "Venti_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Venti_Wish.png"
+    },
+    {
+      "id": "Wanderer_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Wanderer_Wish.png"
+    },
+    {
+      "id": "Wriothesley_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Wriothesley_Wish.png"
+    },
+    {
+      "id": "Xiangling_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Xiangling_Wish.png"
+    },
+    {
+      "id": "Xianyun_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Xianyun_Wish.png"
+    },
+    {
+      "id": "Xiao_Wish",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Wish/Xiao_Wish.png"
+    }
+  ]
+}

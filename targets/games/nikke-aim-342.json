@@ -1,0 +1,179 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "니케 조준 342",
+    "en": "NIKKE Aim 342",
+    "ja": "ニケ エイム 342",
+    "es": "NIKKE Apuntar 342"
+  },
+  "targets": [
+    {
+      "id": "Soda-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Soda-aim.png"
+    },
+    {
+      "id": "Soline-Frost-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Soline-Frost-aim.png"
+    },
+    {
+      "id": "Soline-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Soline-aim.png"
+    },
+    {
+      "id": "Sora-Spring-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Sora-Spring-aim.png"
+    },
+    {
+      "id": "Sora-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Sora-aim.png"
+    },
+    {
+      "id": "Sugar-HardBoiled-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Sugar-HardBoiled-aim.png"
+    },
+    {
+      "id": "Sugar-Wild-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Sugar-Wild-aim.png"
+    },
+    {
+      "id": "Sugar-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Sugar-aim.png"
+    },
+    {
+      "id": "Syuen-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Syuen-aim.png"
+    },
+    {
+      "id": "Takina-BluePulse-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Takina-BluePulse-aim.png"
+    },
+    {
+      "id": "Takina-TrainingWear-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Takina-TrainingWear-aim.png"
+    },
+    {
+      "id": "Takina-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Takina-aim.png"
+    },
+    {
+      "id": "Tia-LovelyDate-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Tia-LovelyDate-aim.png"
+    },
+    {
+      "id": "Tia-SweetChef-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Tia-SweetChef-aim.png"
+    },
+    {
+      "id": "Tia-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Tia-aim.png"
+    },
+    {
+      "id": "Tove-Baseball-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Tove-Baseball-aim.png"
+    },
+    {
+      "id": "Tove-Sunblaze-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Tove-Sunblaze-aim.png"
+    },
+    {
+      "id": "Tove-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Tove-aim.png"
+    },
+    {
+      "id": "Trina-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Trina-aim.png"
+    },
+    {
+      "id": "Trony-Sweet-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Trony-Sweet-aim.png"
+    },
+    {
+      "id": "Trony-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Trony-aim.png"
+    },
+    {
+      "id": "Velvet-Rabbit-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Velvet-Rabbit-aim.png"
+    },
+    {
+      "id": "Velvet-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Velvet-aim.png"
+    },
+    {
+      "id": "Vesti-ArkMage-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Vesti-ArkMage-aim.png"
+    },
+    {
+      "id": "Vesti-Upgrade-Pure-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Vesti-Upgrade-Pure-aim.png"
+    },
+    {
+      "id": "Vesti-Upgrade-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Vesti-Upgrade-aim.png"
+    },
+    {
+      "id": "Vesti-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Vesti-aim.png"
+    },
+    {
+      "id": "Viper-PunkyStreet-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Viper-PunkyStreet-aim.png"
+    },
+    {
+      "id": "Viper-ShineOfLove-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Viper-ShineOfLove-aim.png"
+    },
+    {
+      "id": "Viper-ToxicRabbit-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Viper-ToxicRabbit-aim.png"
+    },
+    {
+      "id": "Viper-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Viper-aim.png"
+    },
+    {
+      "id": "Volume-BeatTheGun-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Volume-BeatTheGun-aim.png"
+    },
+    {
+      "id": "Volume-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Volume-aim.png"
+    },
+    {
+      "id": "Yan-SunriseMarket-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Yan-SunriseMarket-aim.png"
+    },
+    {
+      "id": "Yan-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Yan-aim.png"
+    },
+    {
+      "id": "YingNing-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/YingNing-aim.png"
+    },
+    {
+      "id": "Yulha-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Yulha-aim.png"
+    },
+    {
+      "id": "Yuni-Pretty-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Yuni-Pretty-aim.png"
+    },
+    {
+      "id": "Yuni-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Yuni-aim.png"
+    },
+    {
+      "id": "Zwei-FirstFesta-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Zwei-FirstFesta-aim.png"
+    },
+    {
+      "id": "Zwei-SpringStroll-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Zwei-SpringStroll-aim.png"
+    },
+    {
+      "id": "Zwei-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Zwei-aim.png"
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "니케 조준 100",
+    "en": "NIKKE Aim 100",
+    "ja": "ニケ エイム 100",
+    "es": "NIKKE Apuntar 100"
+  },
+  "targets": [
+    {
+      "id": "2B-Meta-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/2B-Meta-aim.png"
+    },
+    {
+      "id": "2B-Wate-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/2B-Wate-aim.png"
+    },
+    {
+      "id": "2B-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/2B-aim.png"
+    },
+    {
+      "id": "Ada-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ada-aim.png"
+    },
+    {
+      "id": "Ada-dress-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ada-dress-aim.png"
+    },
+    {
+      "id": "Ada-maid-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ada-maid-aim.png"
+    },
+    {
+      "id": "Ada-sep-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ada-sep-aim.png"
+    },
+    {
+      "id": "Ade-agent-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ade-agent-aim.png"
+    },
+    {
+      "id": "Ade-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ade-aim.png"
+    },
+    {
+      "id": "Admi-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Admi-aim.png"
+    },
+    {
+      "id": "Alice-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Alice-aim.png"
+    },
+    {
+      "id": "Alice-bunny-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Alice-bunny-aim.png"
+    },
+    {
+      "id": "Alice-dream-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Alice-dream-aim.png"
+    },
+    {
+      "id": "Alice-sweet-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Alice-sweet-aim.png"
+    },
+    {
+      "id": "Ancor-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ancor-aim.png"
+    },
+    {
+      "id": "Ancor-diver-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ancor-diver-aim.png"
+    },
+    {
+      "id": "Ancor-maid-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ancor-maid-aim.png"
+    },
+    {
+      "id": "Anis-TTstar-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Anis-TTstar-aim.png"
+    },
+    {
+      "id": "Anis-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Anis-aim.png"
+    },
+    {
+      "id": "Anis-star-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Anis-star-aim.png"
+    },
+    {
+      "id": "Anis-starlight-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Anis-starlight-aim.png"
+    },
+    {
+      "id": "Anis-summer-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Anis-summer-aim.png"
+    },
+    {
+      "id": "Anne-fairy-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Anne-fairy-aim.png"
+    },
+    {
+      "id": "Arcana-Fortune-Mate-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Arcana-Fortune-Mate-aim.png"
+    },
+    {
+      "id": "Arcana-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Arcana-aim.png"
+    },
+    {
+      "id": "Asuka-Shikinami-Battle-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Asuka-Shikinami-Battle-aim.png"
+    },
+    {
+      "id": "Asuka-Shikinami-Lament-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Asuka-Shikinami-Lament-aim.png"
+    },
+    {
+      "id": "Asuka-Shikinami-Plugsuit-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Asuka-Shikinami-Plugsuit-aim.png"
+    },
+    {
+      "id": "Asuka-Shikinami-Street-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Asuka-Shikinami-Street-aim.png"
+    },
+    {
+      "id": "Asuka-Shikinami-Wille-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Asuka-Shikinami-Wille-aim.png"
+    },
+    {
+      "id": "Asuka-Shikinami-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Asuka-Shikinami-aim.png"
+    },
+    {
+      "id": "Bay-Rabbit-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Bay-Rabbit-aim.png"
+    },
+    {
+      "id": "Bay-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Bay-aim.png"
+    },
+    {
+      "id": "Belorta-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Belorta-aim.png"
+    },
+    {
+      "id": "Biscuit-Spring-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Biscuit-Spring-aim.png"
+    },
+    {
+      "id": "Biscuit-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Biscuit-aim.png"
+    },
+    {
+      "id": "Blanc-Fortune-Express-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Blanc-Fortune-Express-aim.png"
+    },
+    {
+      "id": "Blanc-No77-Batter-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Blanc-No77-Batter-aim.png"
+    },
+    {
+      "id": "Blanc-White-Rabbit-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Blanc-White-Rabbit-aim.png"
+    },
+    {
+      "id": "Blanc-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Blanc-aim.png"
+    },
+    {
+      "id": "Bready-Frosty-Bite-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Bready-Frosty-Bite-aim.png"
+    },
+    {
+      "id": "Bready-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Bready-aim.png"
+    },
+    {
+      "id": "Brid-Black-Moon-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Brid-Black-Moon-aim.png"
+    },
+    {
+      "id": "Brid-Model-Worker-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Brid-Model-Worker-aim.png"
+    },
+    {
+      "id": "Brid-Silent-Track-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Brid-Silent-Track-aim.png"
+    },
+    {
+      "id": "Brid-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Brid-aim.png"
+    },
+    {
+      "id": "Centi-Ocean-Repair-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Centi-Ocean-Repair-aim.png"
+    },
+    {
+      "id": "Centi-Supreme-Holiday-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Centi-Supreme-Holiday-aim.png"
+    },
+    {
+      "id": "Centi-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Centi-aim.png"
+    },
+    {
+      "id": "Chime-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Chime-aim.png"
+    },
+    {
+      "id": "Chisato-DA-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Chisato-DA-aim.png"
+    },
+    {
+      "id": "Chisato-Red-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Chisato-Red-aim.png"
+    },
+    {
+      "id": "Chisato-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Chisato-aim.png"
+    },
+    {
+      "id": "Cinderella-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Cinderella-aim.png"
+    },
+    {
+      "id": "Cinderella-glass-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Cinderella-glass-aim.png"
+    },
+    {
+      "id": "Cinderella-me-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Cinderella-me-aim.png"
+    },
+    {
+      "id": "Claire-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Claire-aim.png"
+    },
+    {
+      "id": "Clay-CheerUp-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Clay-CheerUp-aim.png"
+    },
+    {
+      "id": "Clay-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Clay-aim.png"
+    },
+    {
+      "id": "Cocoa-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Cocoa-aim.png"
+    },
+    {
+      "id": "Crow-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Crow-aim.png"
+    },
+    {
+      "id": "Crown-Glorious-Flower-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Crown-Glorious-Flower-aim.png"
+    },
+    {
+      "id": "Crown-Naked-King-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Crown-Naked-King-aim.png"
+    },
+    {
+      "id": "Crown-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Crown-aim.png"
+    },
+    {
+      "id": "Crust-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Crust-aim.png"
+    },
+    {
+      "id": "D-Killer-Wife-Secret-Party-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/D-Killer-Wife-Secret-Party-aim.png"
+    },
+    {
+      "id": "D-Killer-Wife-Secret-Police-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/D-Killer-Wife-Secret-Police-aim.png"
+    },
+    {
+      "id": "D-Killer-Wife-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/D-Killer-Wife-aim.png"
+    },
+    {
+      "id": "D-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/D-aim.png"
+    },
+    {
+      "id": "Delta-Ninja-Thief-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Delta-Ninja-Thief-aim.png"
+    },
+    {
+      "id": "Delta-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Delta-aim.png"
+    },
+    {
+      "id": "Diesel-Black-Sunday-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Diesel-Black-Sunday-aim.png"
+    },
+    {
+      "id": "Diesel-Flower-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Diesel-Flower-aim.png"
+    },
+    {
+      "id": "Diesel-Midnight-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Diesel-Midnight-aim.png"
+    },
+    {
+      "id": "Diesel-Winter-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Diesel-Winter-aim.png"
+    },
+    {
+      "id": "Diesel-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Diesel-aim.png"
+    },
+    {
+      "id": "Dolla-Dark-Rose-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Dolla-Dark-Rose-aim.png"
+    },
+    {
+      "id": "Dolla-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Dolla-aim.png"
+    },
+    {
+      "id": "Dorothy-CN-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Dorothy-CN-aim.png"
+    },
+    {
+      "id": "Dorothy-Luna-Light-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Dorothy-Luna-Light-aim.png"
+    },
+    {
+      "id": "Dorothy-Nostalgia-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Dorothy-Nostalgia-aim.png"
+    },
+    {
+      "id": "Dorothy-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Dorothy-aim.png"
+    },
+    {
+      "id": "Drake-Maid-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Drake-Maid-aim.png"
+    },
+    {
+      "id": "Drake-Villain-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Drake-Villain-aim.png"
+    },
+    {
+      "id": "Drake-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Drake-aim.png"
+    },
+    {
+      "id": "EH-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/EH-aim.png"
+    },
+    {
+      "id": "Ein-Festa-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ein-Festa-aim.png"
+    },
+    {
+      "id": "Ein-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ein-aim.png"
+    },
+    {
+      "id": "Elegg-Boom-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Elegg-Boom-aim.png"
+    },
+    {
+      "id": "Elegg-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Elegg-aim.png"
+    },
+    {
+      "id": "Emilia-Maid-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Emilia-Maid-aim.png"
+    },
+    {
+      "id": "Emilia-Spring-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Emilia-Spring-aim.png"
+    },
+    {
+      "id": "Emilia-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Emilia-aim.png"
+    },
+    {
+      "id": "Emma-Office-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Emma-Office-aim.png"
+    },
+    {
+      "id": "Emma-Red-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Emma-Red-aim.png"
+    },
+    {
+      "id": "Emma-Upgrade-Secret-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Emma-Upgrade-Secret-aim.png"
+    },
+    {
+      "id": "Emma-Upgrade-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Emma-Upgrade-aim.png"
+    },
+    {
+      "id": "Emma-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Emma-aim.png"
+    },
+    {
+      "id": "Epinel-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Epinel-aim.png"
+    },
+    {
+      "id": "Ether-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ether-aim.png"
+    }
+  ]
+}

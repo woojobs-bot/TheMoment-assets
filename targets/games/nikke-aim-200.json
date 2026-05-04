@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "니케 조준 200",
+    "en": "NIKKE Aim 200",
+    "ja": "ニケ エイム 200",
+    "es": "NIKKE Apuntar 200"
+  },
+  "targets": [
+    {
+      "id": "Eunhwa-Upgrade-Dayoff-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Eunhwa-Upgrade-Dayoff-aim.png"
+    },
+    {
+      "id": "Eunhwa-Upgrade-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Eunhwa-Upgrade-aim.png"
+    },
+    {
+      "id": "Eunhwa-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Eunhwa-aim.png"
+    },
+    {
+      "id": "Eve-Keyhole-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Eve-Keyhole-aim.png"
+    },
+    {
+      "id": "Eve-Neurolink-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Eve-Neurolink-aim.png"
+    },
+    {
+      "id": "Eve-Skin-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Eve-Skin-aim.png"
+    },
+    {
+      "id": "Eve-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Eve-aim.png"
+    },
+    {
+      "id": "Exia-Gamer-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Exia-Gamer-aim.png"
+    },
+    {
+      "id": "Exia-Hacker-Rabbit-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Exia-Hacker-Rabbit-aim.png"
+    },
+    {
+      "id": "Exia-Nerds-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Exia-Nerds-aim.png"
+    },
+    {
+      "id": "Exia-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Exia-aim.png"
+    },
+    {
+      "id": "Flora-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Flora-aim.png"
+    },
+    {
+      "id": "Folkwang-Bunny-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Folkwang-Bunny-aim.png"
+    },
+    {
+      "id": "Folkwang-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Folkwang-aim.png"
+    },
+    {
+      "id": "Frima-Sea-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Frima-Sea-aim.png"
+    },
+    {
+      "id": "Frima-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Frima-aim.png"
+    },
+    {
+      "id": "Grave-GraGre-Beatiful-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Grave-GraGre-Beatiful-aim.png"
+    },
+    {
+      "id": "Grave-GraGre-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Grave-GraGre-aim.png"
+    },
+    {
+      "id": "Guillotine-DarkTracer-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Guillotine-DarkTracer-aim.png"
+    },
+    {
+      "id": "Guillotine-Winter-Slayer-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Guillotine-Winter-Slayer-aim.png"
+    },
+    {
+      "id": "Guillotine-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Guillotine-aim.png"
+    },
+    {
+      "id": "Guilty-Wave-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Guilty-Wave-aim.png"
+    },
+    {
+      "id": "Guilty-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Guilty-aim.png"
+    },
+    {
+      "id": "Harran-Witch-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Harran-Witch-aim.png"
+    },
+    {
+      "id": "Harran-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Harran-aim.png"
+    },
+    {
+      "id": "Helm-Aquamarine-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Helm-Aquamarine-aim.png"
+    },
+    {
+      "id": "Helm-Chandelier-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Helm-Chandelier-aim.png"
+    },
+    {
+      "id": "Helm-Post-Shower-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Helm-Post-Shower-aim.png"
+    },
+    {
+      "id": "Helm-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Helm-aim.png"
+    },
+    {
+      "id": "Hua-Pi-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Hua-Pi-aim.png"
+    },
+    {
+      "id": "Isabel-Honeymoon-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Isabel-Honeymoon-aim.png"
+    },
+    {
+      "id": "Isabel-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Isabel-aim.png"
+    },
+    {
+      "id": "Jackal-Class-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Jackal-Class-aim.png"
+    },
+    {
+      "id": "Jackal-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Jackal-aim.png"
+    },
+    {
+      "id": "Jill-Battle-Suit-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Jill-Battle-Suit-aim.png"
+    },
+    {
+      "id": "Jill-Classic-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Jill-Classic-aim.png"
+    },
+    {
+      "id": "Jill-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Jill-aim.png"
+    },
+    {
+      "id": "Julia-Mild-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Julia-Mild-aim.png"
+    },
+    {
+      "id": "Julia-Summer-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Julia-Summer-aim.png"
+    },
+    {
+      "id": "Julia-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Julia-aim.png"
+    },
+    {
+      "id": "K-Undercover-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/K-Undercover-aim.png"
+    },
+    {
+      "id": "K-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/K-aim.png"
+    },
+    {
+      "id": "Kilo-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Kilo-aim.png"
+    },
+    {
+      "id": "Kurumi-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Kurumi-aim.png"
+    },
+    {
+      "id": "Label-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Label-aim.png"
+    },
+    {
+      "id": "Laplace-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Laplace-aim.png"
+    },
+    {
+      "id": "Leona-Zoo-Keeper-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Leona-Zoo-Keeper-aim.png"
+    },
+    {
+      "id": "Leona-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Leona-aim.png"
+    },
+    {
+      "id": "Liberalio-Dreaming-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Liberalio-Dreaming-aim.png"
+    },
+    {
+      "id": "Liberalio-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Liberalio-aim.png"
+    },
+    {
+      "id": "Lily-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Lily-aim.png"
+    },
+    {
+      "id": "Liter-CN-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Liter-CN-aim.png"
+    },
+    {
+      "id": "Liter-Cute-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Liter-Cute-aim.png"
+    },
+    {
+      "id": "Liter-Guardfish-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Liter-Guardfish-aim.png"
+    },
+    {
+      "id": "Liter-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Liter-aim.png"
+    },
+    {
+      "id": "Ludmilla-Winter-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ludmilla-Winter-aim.png"
+    },
+    {
+      "id": "Ludmilla-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Ludmilla-aim.png"
+    },
+    {
+      "id": "Maiden-Ice-Rose-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Maiden-Ice-Rose-aim.png"
+    },
+    {
+      "id": "Maiden-Nurse-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Maiden-Nurse-aim.png"
+    },
+    {
+      "id": "Maiden-Under-Sun-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Maiden-Under-Sun-aim.png"
+    },
+    {
+      "id": "Maiden-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Maiden-aim.png"
+    },
+    {
+      "id": "Makima-Coat-Off-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Makima-Coat-Off-aim.png"
+    },
+    {
+      "id": "Makima-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Makima-aim.png"
+    },
+    {
+      "id": "Mana-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mana-aim.png"
+    },
+    {
+      "id": "Marciana-School-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Marciana-School-aim.png"
+    },
+    {
+      "id": "Marciana-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Marciana-aim.png"
+    },
+    {
+      "id": "Mari-Final-Battle-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mari-Final-Battle-aim.png"
+    },
+    {
+      "id": "Mari-Leisure-Travel-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mari-Leisure-Travel-aim.png"
+    },
+    {
+      "id": "Mari-Mystery-Muse-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mari-Mystery-Muse-aim.png"
+    },
+    {
+      "id": "Mari-School-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mari-School-aim.png"
+    },
+    {
+      "id": "Mari-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mari-aim.png"
+    },
+    {
+      "id": "Marian-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Marian-aim.png"
+    },
+    {
+      "id": "Mary-Bay-Goddess-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mary-Bay-Goddess-aim.png"
+    },
+    {
+      "id": "Mary-Rabbit-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mary-Rabbit-aim.png"
+    },
+    {
+      "id": "Mary-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mary-aim.png"
+    },
+    {
+      "id": "Mast-Diver-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mast-Diver-aim.png"
+    },
+    {
+      "id": "Mast-Heart-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mast-Heart-aim.png"
+    },
+    {
+      "id": "Mast-Romantic-Maid-Tea-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mast-Romantic-Maid-Tea-aim.png"
+    },
+    {
+      "id": "Mast-Romantic-Maid-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mast-Romantic-Maid-aim.png"
+    },
+    {
+      "id": "Mast-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mast-aim.png"
+    },
+    {
+      "id": "Maxwell-Mechanic-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Maxwell-Mechanic-aim.png"
+    },
+    {
+      "id": "Maxwell-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Maxwell-aim.png"
+    },
+    {
+      "id": "Mecani-Shifty-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mecani-Shifty-aim.png"
+    },
+    {
+      "id": "Mecha-Shifty-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mecha-Shifty-aim.png"
+    },
+    {
+      "id": "Mica-Buddy-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mica-Buddy-aim.png"
+    },
+    {
+      "id": "Mica-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mica-aim.png"
+    },
+    {
+      "id": "Mihara-Bonding-Chain-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mihara-Bonding-Chain-aim.png"
+    },
+    {
+      "id": "Mihara-Paint-Eater-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mihara-Paint-Eater-aim.png"
+    },
+    {
+      "id": "Mihara-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Mihara-aim.png"
+    },
+    {
+      "id": "Milk-Blooming-Bunny-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Milk-Blooming-Bunny-aim.png"
+    },
+    {
+      "id": "Milk-Extreme-Fighter-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Milk-Extreme-Fighter-aim.png"
+    },
+    {
+      "id": "Milk-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Milk-aim.png"
+    },
+    {
+      "id": "Miranda-Justice-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Miranda-Justice-aim.png"
+    },
+    {
+      "id": "Miranda-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Miranda-aim.png"
+    },
+    {
+      "id": "Misato-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Misato-aim.png"
+    },
+    {
+      "id": "Modernia-CN-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Modernia-CN-aim.png"
+    },
+    {
+      "id": "Modernia-First-Affection-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Modernia-First-Affection-aim.png"
+    },
+    {
+      "id": "Modernia-Second-Affection-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Modernia-Second-Affection-aim.png"
+    },
+    {
+      "id": "Modernia-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Modernia-aim.png"
+    },
+    {
+      "id": "Moran-Off-Duty-Queen-aim",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/aim/Moran-Off-Duty-Queen-aim.png"
+    }
+  ]
+}

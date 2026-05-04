@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "원신 아이콘 117",
+    "en": "Genshin Impact Icon 117",
+    "ja": "原神 アイコン 117",
+    "es": "Genshin Impact Ícono 117"
+  },
+  "targets": [
+    {
+      "id": "Wanderer_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Wanderer_Icon.png"
+    },
+    {
+      "id": "Wriothesley_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Wriothesley_Icon.png"
+    },
+    {
+      "id": "Xiangling_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Xiangling_Icon.png"
+    },
+    {
+      "id": "Xianyun_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Xianyun_Icon.png"
+    },
+    {
+      "id": "Xiao_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Xiao_Icon.png"
+    },
+    {
+      "id": "Xilonen_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Xilonen_Icon.png"
+    },
+    {
+      "id": "Xingqiu_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Xingqiu_Icon.png"
+    },
+    {
+      "id": "Xinyan_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Xinyan_Icon.png"
+    },
+    {
+      "id": "Yae_Miko_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Yae_Miko_Icon.png"
+    },
+    {
+      "id": "Yanfei_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Yanfei_Icon.png"
+    },
+    {
+      "id": "Yaoyao_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Yaoyao_Icon.png"
+    },
+    {
+      "id": "Yelan_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Yelan_Icon.png"
+    },
+    {
+      "id": "Yoimiya_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Yoimiya_Icon.png"
+    },
+    {
+      "id": "Yumemizuki_Mizuki_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Yumemizuki_Mizuki_Icon.png"
+    },
+    {
+      "id": "Yun_Jin_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Yun_Jin_Icon.png"
+    },
+    {
+      "id": "Zhongli_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Zhongli_Icon.png"
+    },
+    {
+      "id": "Zibai_Icon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Icon/Zibai_Icon.png"
+    }
+  ]
+}

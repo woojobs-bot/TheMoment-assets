@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "우마무스메 Vol.3 100",
+    "en": "Uma Musume Vol.3 100",
+    "ja": "ウマ娘 Vol.3 100",
+    "es": "Uma Musume Vol.3 100"
+  },
+  "targets": [
+    {
+      "id": "admiregroove",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/admiregroove.png"
+    },
+    {
+      "id": "admirevega",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/admirevega.png"
+    },
+    {
+      "id": "agnesdigital",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/agnesdigital.png"
+    },
+    {
+      "id": "agnestachyon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/agnestachyon.png"
+    },
+    {
+      "id": "airgroove",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/airgroove.png"
+    },
+    {
+      "id": "airshakur",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/airshakur.png"
+    },
+    {
+      "id": "almondeye",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/almondeye.png"
+    },
+    {
+      "id": "astonmachan",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/astonmachan.png"
+    },
+    {
+      "id": "bamboomemory",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/bamboomemory.png"
+    },
+    {
+      "id": "believe",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/believe.png"
+    },
+    {
+      "id": "bikopegasus",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/bikopegasus.png"
+    },
+    {
+      "id": "biwahayahide",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/biwahayahide.png"
+    },
+    {
+      "id": "bubblegumfellow",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/bubblegumfellow.png"
+    },
+    {
+      "id": "buenavista",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/buenavista.png"
+    },
+    {
+      "id": "calstonelighto",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/calstonelighto.png"
+    },
+    {
+      "id": "chevalgrand",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/chevalgrand.png"
+    },
+    {
+      "id": "chronogenesis",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/chronogenesis.png"
+    },
+    {
+      "id": "copanorickey",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/copanorickey.png"
+    },
+    {
+      "id": "currenchan",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/currenchan.png"
+    },
+    {
+      "id": "daiichiruby",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/daiichiruby.png"
+    },
+    {
+      "id": "daitakuhelios",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/daitakuhelios.png"
+    },
+    {
+      "id": "daiwascarlet",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/daiwascarlet.png"
+    },
+    {
+      "id": "dantsuflame",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/dantsuflame.png"
+    },
+    {
+      "id": "duramente",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/duramente.png"
+    },
+    {
+      "id": "durandal",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/durandal.png"
+    },
+    {
+      "id": "eishinflash",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/eishinflash.png"
+    },
+    {
+      "id": "elcondorpasa",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/elcondorpasa.png"
+    },
+    {
+      "id": "espoircity",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/espoircity.png"
+    },
+    {
+      "id": "fenomeno",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/fenomeno.png"
+    },
+    {
+      "id": "finemotion",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/finemotion.png"
+    },
+    {
+      "id": "fujikiseki",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/fujikiseki.png"
+    },
+    {
+      "id": "furioso",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/furioso.png"
+    },
+    {
+      "id": "goldcity",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/goldcity.png"
+    },
+    {
+      "id": "goldship",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/goldship.png"
+    },
+    {
+      "id": "granalegria",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/granalegria.png"
+    },
+    {
+      "id": "grasswonder",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/grasswonder.png"
+    },
+    {
+      "id": "haruurara",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/haruurara.png"
+    },
+    {
+      "id": "hishiakebono",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/hishiakebono.png"
+    },
+    {
+      "id": "hishiamazon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/hishiamazon.png"
+    },
+    {
+      "id": "hishimiracle",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/hishimiracle.png"
+    },
+    {
+      "id": "hokkotarumae",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/hokkotarumae.png"
+    },
+    {
+      "id": "ikunodictus",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/ikunodictus.png"
+    },
+    {
+      "id": "inarione",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/inarione.png"
+    },
+    {
+      "id": "inesfujin",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/inesfujin.png"
+    },
+    {
+      "id": "junglepocket",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/junglepocket.png"
+    },
+    {
+      "id": "katsuragiace",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/katsuragiace.png"
+    },
+    {
+      "id": "kawakamiprincess",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/kawakamiprincess.png"
+    },
+    {
+      "id": "kinghalo",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/kinghalo.png"
+    },
+    {
+      "id": "kitasanblack",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/kitasanblack.png"
+    },
+    {
+      "id": "lovesonlyyou",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/lovesonlyyou.png"
+    },
+    {
+      "id": "luckylilac",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/luckylilac.png"
+    },
+    {
+      "id": "manhattancafe",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/manhattancafe.png"
+    },
+    {
+      "id": "maruzensky",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/maruzensky.png"
+    },
+    {
+      "id": "marveloussunday",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/marveloussunday.png"
+    },
+    {
+      "id": "matikanefukukitaru",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/matikanefukukitaru.png"
+    },
+    {
+      "id": "matikanetannhauser",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/matikanetannhauser.png"
+    },
+    {
+      "id": "mayanotopgun",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/mayanotopgun.png"
+    },
+    {
+      "id": "meishodoto",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/meishodoto.png"
+    },
+    {
+      "id": "mejiroardan",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/mejiroardan.png"
+    },
+    {
+      "id": "mejirobright",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/mejirobright.png"
+    },
+    {
+      "id": "mejirodober",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/mejirodober.png"
+    },
+    {
+      "id": "mejiromcqueen",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/mejiromcqueen.png"
+    },
+    {
+      "id": "mejiropalmer",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/mejiropalmer.png"
+    },
+    {
+      "id": "mejiroramonu",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/mejiroramonu.png"
+    },
+    {
+      "id": "mejiroryan",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/mejiroryan.png"
+    },
+    {
+      "id": "mihonobourbon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/mihonobourbon.png"
+    },
+    {
+      "id": "mrcb",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/mrcb.png"
+    },
+    {
+      "id": "nakayamafesta",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/nakayamafesta.png"
+    },
+    {
+      "id": "naritabrian",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/naritabrian.png"
+    },
+    {
+      "id": "naritataishin",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/naritataishin.png"
+    },
+    {
+      "id": "naritatoproad",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/naritatoproad.png"
+    },
+    {
+      "id": "neouniverse",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/neouniverse.png"
+    },
+    {
+      "id": "nicenature",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/nicenature.png"
+    },
+    {
+      "id": "nishinoflower",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/nishinoflower.png"
+    },
+    {
+      "id": "northflight",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/northflight.png"
+    },
+    {
+      "id": "oguricap",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/oguricap.png"
+    },
+    {
+      "id": "orfevre",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/orfevre.png"
+    },
+    {
+      "id": "rheinkraft",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/rheinkraft.png"
+    },
+    {
+      "id": "riceshower",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/riceshower.png"
+    },
+    {
+      "id": "royceandroyce",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/royceandroyce.png"
+    },
+    {
+      "id": "sakurabakushino",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/sakurabakushino.png"
+    },
+    {
+      "id": "sakurachiyonoo",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/sakurachiyonoo.png"
+    },
+    {
+      "id": "satonocrown",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/satonocrown.png"
+    },
+    {
+      "id": "satonodiamond",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/satonodiamond.png"
+    },
+    {
+      "id": "seekingthepearl",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/seekingthepearl.png"
+    },
+    {
+      "id": "seiunsky",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/seiunsky.png"
+    },
+    {
+      "id": "shinkowindy",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/shinkowindy.png"
+    },
+    {
+      "id": "silencesuzuka",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/silencesuzuka.png"
+    },
+    {
+      "id": "siriussymboli",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/siriussymboli.png"
+    },
+    {
+      "id": "smartfalcon",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/smartfalcon.png"
+    },
+    {
+      "id": "specialweek",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/specialweek.png"
+    },
+    {
+      "id": "staygold",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/staygold.png"
+    },
+    {
+      "id": "stillinlove",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/stillinlove.png"
+    },
+    {
+      "id": "supercreek",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/supercreek.png"
+    },
+    {
+      "id": "sweeptosho",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/sweeptosho.png"
+    },
+    {
+      "id": "symbolikriss",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/symbolikriss.png"
+    },
+    {
+      "id": "symbolirudolf",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/symbolirudolf.png"
+    },
+    {
+      "id": "taikishuttle",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/taikishuttle.png"
+    },
+    {
+      "id": "tamamocross",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/tamamocross.png"
+    },
+    {
+      "id": "taninogimlet",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/3/taninogimlet.png"
+    }
+  ]
+}

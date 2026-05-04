@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "블루 아카이브 100",
+    "en": "Blue Archive 100",
+    "ja": "ブルーアーカイブ 100",
+    "es": "Blue Archive 100"
+  },
+  "targets": [
+    {
+      "id": "Airi (Band)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Airi%20%28Band%2901.png"
+    },
+    {
+      "id": "Airi (Band)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Airi%20%28Band%2902.png"
+    },
+    {
+      "id": "Airi (Band)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Airi%20%28Band%2903.png"
+    },
+    {
+      "id": "Airi (Band)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Airi%20%28Band%2904.png"
+    },
+    {
+      "id": "Airi01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Airi01.png"
+    },
+    {
+      "id": "Airi02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Airi02.png"
+    },
+    {
+      "id": "Airi03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Airi03.png"
+    },
+    {
+      "id": "Airi04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Airi04.png"
+    },
+    {
+      "id": "Akane (Bunny Girl)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akane%20%28Bunny%20Girl%2901.png"
+    },
+    {
+      "id": "Akane (Bunny Girl)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akane%20%28Bunny%20Girl%2902.png"
+    },
+    {
+      "id": "Akane (Bunny Girl)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akane%20%28Bunny%20Girl%2903.png"
+    },
+    {
+      "id": "Akane (School Uniform)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akane%20%28School%20Uniform%2901.png"
+    },
+    {
+      "id": "Akane (School Uniform)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akane%20%28School%20Uniform%2902.png"
+    },
+    {
+      "id": "Akane (School Uniform)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akane%20%28School%20Uniform%2903.png"
+    },
+    {
+      "id": "Akane01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akane01.png"
+    },
+    {
+      "id": "Akane02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akane02.png"
+    },
+    {
+      "id": "Akane03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akane03.png"
+    },
+    {
+      "id": "Akari (New Year)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akari%20%28New%20Year%2901.png"
+    },
+    {
+      "id": "Akari (New Year)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akari%20%28New%20Year%2902.png"
+    },
+    {
+      "id": "Akari (New Year)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akari%20%28New%20Year%2903.png"
+    },
+    {
+      "id": "Akari01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akari01.png"
+    },
+    {
+      "id": "Akari02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akari02.png"
+    },
+    {
+      "id": "Akari03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Akari03.png"
+    },
+    {
+      "id": "Ako (Dress)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ako%20%28Dress%2901.png"
+    },
+    {
+      "id": "Ako (Dress)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ako%20%28Dress%2902.png"
+    },
+    {
+      "id": "Ako (Dress)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ako%20%28Dress%2903.png"
+    },
+    {
+      "id": "Ako (Dress)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ako%20%28Dress%2904.png"
+    },
+    {
+      "id": "Ako (Dress)05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ako%20%28Dress%2905.png"
+    },
+    {
+      "id": "Ako01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ako01.png"
+    },
+    {
+      "id": "Ako02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ako02.png"
+    },
+    {
+      "id": "Ako03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ako03.png"
+    },
+    {
+      "id": "Ako04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ako04.png"
+    },
+    {
+      "id": "Ako05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ako05.png"
+    },
+    {
+      "id": "Aoba01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Aoba01.png"
+    },
+    {
+      "id": "Arisu (Battle)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu%20%28Battle%2901.png"
+    },
+    {
+      "id": "Arisu (Battle)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu%20%28Battle%2902.png"
+    },
+    {
+      "id": "Arisu (Battle)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu%20%28Battle%2903.png"
+    },
+    {
+      "id": "Arisu (Battle)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu%20%28Battle%2904.png"
+    },
+    {
+      "id": "Arisu (Battle)05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu%20%28Battle%2905.png"
+    },
+    {
+      "id": "Arisu (Battle)06",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu%20%28Battle%2906.png"
+    },
+    {
+      "id": "Arisu (Maid)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu%20%28Maid%2901.png"
+    },
+    {
+      "id": "Arisu (Maid)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu%20%28Maid%2902.png"
+    },
+    {
+      "id": "Arisu (Maid)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu%20%28Maid%2903.png"
+    },
+    {
+      "id": "Arisu (Maid)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu%20%28Maid%2904.png"
+    },
+    {
+      "id": "Arisu (Maid)05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu%20%28Maid%2905.png"
+    },
+    {
+      "id": "Arisu (Maid)06",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu%20%28Maid%2906.png"
+    },
+    {
+      "id": "Arisu01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu01.png"
+    },
+    {
+      "id": "Arisu02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu02.png"
+    },
+    {
+      "id": "Arisu03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu03.png"
+    },
+    {
+      "id": "Arisu04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu04.png"
+    },
+    {
+      "id": "Arisu05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu05.png"
+    },
+    {
+      "id": "Arisu06",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Arisu06.png"
+    },
+    {
+      "id": "Aru (Dress)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Aru%20%28Dress%2901.png"
+    },
+    {
+      "id": "Aru (Dress)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Aru%20%28Dress%2902.png"
+    },
+    {
+      "id": "Aru (Dress)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Aru%20%28Dress%2903.png"
+    },
+    {
+      "id": "Aru (New Year)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Aru%20%28New%20Year%2901.png"
+    },
+    {
+      "id": "Aru (New Year)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Aru%20%28New%20Year%2902.png"
+    },
+    {
+      "id": "Aru (New Year)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Aru%20%28New%20Year%2903.png"
+    },
+    {
+      "id": "Aru01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Aru01.png"
+    },
+    {
+      "id": "Aru02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Aru02.png"
+    },
+    {
+      "id": "Aru03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Aru03.png"
+    },
+    {
+      "id": "Asuna (Bunny Girl)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Asuna%20%28Bunny%20Girl%2901.png"
+    },
+    {
+      "id": "Asuna (Bunny Girl)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Asuna%20%28Bunny%20Girl%2902.png"
+    },
+    {
+      "id": "Asuna (Bunny Girl)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Asuna%20%28Bunny%20Girl%2903.png"
+    },
+    {
+      "id": "Asuna (School Uniform)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Asuna%20%28School%20Uniform%2901.png"
+    },
+    {
+      "id": "Asuna (School Uniform)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Asuna%20%28School%20Uniform%2902.png"
+    },
+    {
+      "id": "Asuna (School Uniform)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Asuna%20%28School%20Uniform%2903.png"
+    },
+    {
+      "id": "Asuna01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Asuna01.png"
+    },
+    {
+      "id": "Asuna02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Asuna02.png"
+    },
+    {
+      "id": "Asuna03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Asuna03.png"
+    },
+    {
+      "id": "Atsuko (Swimsuit)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Atsuko%20%28Swimsuit%2901.png"
+    },
+    {
+      "id": "Atsuko (Swimsuit)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Atsuko%20%28Swimsuit%2902.png"
+    },
+    {
+      "id": "Atsuko (Swimsuit)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Atsuko%20%28Swimsuit%2903.png"
+    },
+    {
+      "id": "Atsuko (Swimsuit)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Atsuko%20%28Swimsuit%2904.png"
+    },
+    {
+      "id": "Atsuko01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Atsuko01.png"
+    },
+    {
+      "id": "Atsuko02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Atsuko02.png"
+    },
+    {
+      "id": "Atsuko03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Atsuko03.png"
+    },
+    {
+      "id": "Atsuko04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Atsuko04.png"
+    },
+    {
+      "id": "Ayane (Swimsuit)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane%20%28Swimsuit%2901.png"
+    },
+    {
+      "id": "Ayane (Swimsuit)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane%20%28Swimsuit%2902.png"
+    },
+    {
+      "id": "Ayane (Swimsuit)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane%20%28Swimsuit%2903.png"
+    },
+    {
+      "id": "Ayane (Swimsuit)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane%20%28Swimsuit%2904.png"
+    },
+    {
+      "id": "Ayane (Swimsuit)05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane%20%28Swimsuit%2905.png"
+    },
+    {
+      "id": "Ayane (Swimsuit)06",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane%20%28Swimsuit%2906.png"
+    },
+    {
+      "id": "Ayane (Swimsuit)07",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane%20%28Swimsuit%2907.png"
+    },
+    {
+      "id": "Ayane (Swimsuit)08",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane%20%28Swimsuit%2908.png"
+    },
+    {
+      "id": "Ayane01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane01.png"
+    },
+    {
+      "id": "Ayane02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane02.png"
+    },
+    {
+      "id": "Ayane03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane03.png"
+    },
+    {
+      "id": "Ayane04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane04.png"
+    },
+    {
+      "id": "Ayane05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane05.png"
+    },
+    {
+      "id": "Ayane06",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane06.png"
+    },
+    {
+      "id": "Ayane07",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane07.png"
+    },
+    {
+      "id": "Ayane08",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Ayane08.png"
+    },
+    {
+      "id": "Azusa (Swimsuit)01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Azusa%20%28Swimsuit%2901.png"
+    },
+    {
+      "id": "Azusa (Swimsuit)02",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Azusa%20%28Swimsuit%2902.png"
+    },
+    {
+      "id": "Azusa (Swimsuit)03",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Azusa%20%28Swimsuit%2903.png"
+    },
+    {
+      "id": "Azusa (Swimsuit)04",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Azusa%20%28Swimsuit%2904.png"
+    },
+    {
+      "id": "Azusa (Swimsuit)05",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Azusa%20%28Swimsuit%2905.png"
+    },
+    {
+      "id": "Azusa01",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/blue-archive/Azusa01.png"
+    }
+  ]
+}

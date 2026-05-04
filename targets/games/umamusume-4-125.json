@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "우마무스메 Vol.4 125",
+    "en": "Uma Musume Vol.4 125",
+    "ja": "ウマ娘 Vol.4 125",
+    "es": "Uma Musume Vol.4 125"
+  },
+  "targets": [
+    {
+      "id": "stillinlove",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/stillinlove.png"
+    },
+    {
+      "id": "supercreek",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/supercreek.png"
+    },
+    {
+      "id": "sweeptosho",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/sweeptosho.png"
+    },
+    {
+      "id": "symbolikriss",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/symbolikriss.png"
+    },
+    {
+      "id": "symbolirudolf",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/symbolirudolf.png"
+    },
+    {
+      "id": "taikishuttle",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/taikishuttle.png"
+    },
+    {
+      "id": "tamamocross",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/tamamocross.png"
+    },
+    {
+      "id": "taninogimlet",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/taninogimlet.png"
+    },
+    {
+      "id": "tapdancecity",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/tapdancecity.png"
+    },
+    {
+      "id": "tmoperao",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/tmoperao.png"
+    },
+    {
+      "id": "tokaiteio",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/tokaiteio.png"
+    },
+    {
+      "id": "tosenjordan",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/tosenjordan.png"
+    },
+    {
+      "id": "transcend",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/transcend.png"
+    },
+    {
+      "id": "tsurumarutsuyoshi",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/tsurumarutsuyoshi.png"
+    },
+    {
+      "id": "twinturbo",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/twinturbo.png"
+    },
+    {
+      "id": "verxina",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/verxina.png"
+    },
+    {
+      "id": "vivlos",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/vivlos.png"
+    },
+    {
+      "id": "vodka",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/vodka.png"
+    },
+    {
+      "id": "winningticket",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/winningticket.png"
+    },
+    {
+      "id": "winvariation",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/winvariation.png"
+    },
+    {
+      "id": "wonderacute",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/wonderacute.png"
+    },
+    {
+      "id": "yaenomuteki",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/yaenomuteki.png"
+    },
+    {
+      "id": "yamaninzephyr",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/yamaninzephyr.png"
+    },
+    {
+      "id": "yukinobijin",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/yukinobijin.png"
+    },
+    {
+      "id": "zennorobroy",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/umamusume/4/zennorobroy.png"
+    }
+  ]
+}

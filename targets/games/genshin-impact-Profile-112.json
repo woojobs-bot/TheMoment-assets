@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "원신 프로필 112",
+    "en": "Genshin Impact Profile 112",
+    "ja": "原神 プロフィール 112",
+    "es": "Genshin Impact Perfil 112"
+  },
+  "targets": [
+    {
+      "id": "Xilonen_Profile",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Profile/Xilonen_Profile.png"
+    },
+    {
+      "id": "Xingqiu_Profile",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Profile/Xingqiu_Profile.png"
+    },
+    {
+      "id": "Xinyan_Profile",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Profile/Xinyan_Profile.png"
+    },
+    {
+      "id": "Yae_Miko_Profile",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Profile/Yae_Miko_Profile.png"
+    },
+    {
+      "id": "Yanfei_Profile",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Profile/Yanfei_Profile.png"
+    },
+    {
+      "id": "Yaoyao_Profile",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Profile/Yaoyao_Profile.png"
+    },
+    {
+      "id": "Yelan_Profile",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Profile/Yelan_Profile.png"
+    },
+    {
+      "id": "Yoimiya_Profile",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Profile/Yoimiya_Profile.png"
+    },
+    {
+      "id": "Yumemizuki_Mizuki_Profile",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Profile/Yumemizuki_Mizuki_Profile.png"
+    },
+    {
+      "id": "Yun_Jin_Profile",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Profile/Yun_Jin_Profile.png"
+    },
+    {
+      "id": "Zhongli_Profile",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Profile/Zhongli_Profile.png"
+    },
+    {
+      "id": "Zibai_Profile",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Profile/Zibai_Profile.png"
+    }
+  ]
+}

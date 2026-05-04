@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "니케 전신 100",
+    "en": "NIKKE Full Body 100",
+    "ja": "ニケ 全身 100",
+    "es": "NIKKE Cuerpo Completo 100"
+  },
+  "targets": [
+    {
+      "id": "2B-Meta-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/2B-Meta-fullbody.png"
+    },
+    {
+      "id": "2B-Wate-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/2B-Wate-fullbody.png"
+    },
+    {
+      "id": "2B-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/2B-fullbody.png"
+    },
+    {
+      "id": "Ada-dress-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Ada-dress-fullbody.png"
+    },
+    {
+      "id": "Ada-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Ada-fullbody.png"
+    },
+    {
+      "id": "Ada-maid-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Ada-maid-fullbody.png"
+    },
+    {
+      "id": "Ada-sep-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Ada-sep-fullbody.png"
+    },
+    {
+      "id": "Ade-agent-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Ade-agent-fullbody.png"
+    },
+    {
+      "id": "Ade-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Ade-fullbody.png"
+    },
+    {
+      "id": "Admi-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Admi-fullbody.png"
+    },
+    {
+      "id": "Alice-bunny-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Alice-bunny-fullbody.png"
+    },
+    {
+      "id": "Alice-dream-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Alice-dream-fullbody.png"
+    },
+    {
+      "id": "Alice-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Alice-fullbody.png"
+    },
+    {
+      "id": "Alice-sweet-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Alice-sweet-fullbody.png"
+    },
+    {
+      "id": "Ami-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Ami-fullbody.png"
+    },
+    {
+      "id": "Ancor-diver-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Ancor-diver-fullbody.png"
+    },
+    {
+      "id": "Ancor-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Ancor-fullbody.png"
+    },
+    {
+      "id": "Ancor-maid-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Ancor-maid-fullbody.png"
+    },
+    {
+      "id": "Angelina-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Angelina-fullbody.png"
+    },
+    {
+      "id": "Anis-TTstar-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Anis-TTstar-fullbody.png"
+    },
+    {
+      "id": "Anis-casual-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Anis-casual-fullbody.png"
+    },
+    {
+      "id": "Anis-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Anis-fullbody.png"
+    },
+    {
+      "id": "Anis-singer-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Anis-singer-fullbody.png"
+    },
+    {
+      "id": "Anis-star-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Anis-star-fullbody.png"
+    },
+    {
+      "id": "Anis-starlight-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Anis-starlight-fullbody.png"
+    },
+    {
+      "id": "Anis-summer-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Anis-summer-fullbody.png"
+    },
+    {
+      "id": "Anne-fairy-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Anne-fairy-fullbody.png"
+    },
+    {
+      "id": "Arcana-Fortune-Mate-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Arcana-Fortune-Mate-fullbody.png"
+    },
+    {
+      "id": "Arcana-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Arcana-fullbody.png"
+    },
+    {
+      "id": "Asuka-Shikinami-Battle-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Asuka-Shikinami-Battle-fullbody.png"
+    },
+    {
+      "id": "Asuka-Shikinami-Lament-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Asuka-Shikinami-Lament-fullbody.png"
+    },
+    {
+      "id": "Asuka-Shikinami-Plugsuit-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Asuka-Shikinami-Plugsuit-fullbody.png"
+    },
+    {
+      "id": "Asuka-Shikinami-Street-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Asuka-Shikinami-Street-fullbody.png"
+    },
+    {
+      "id": "Asuka-Shikinami-Wille-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Asuka-Shikinami-Wille-fullbody.png"
+    },
+    {
+      "id": "Asuka-Shikinami-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Asuka-Shikinami-fullbody.png"
+    },
+    {
+      "id": "Avista-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Avista-fullbody.png"
+    },
+    {
+      "id": "Bahamut-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Bahamut-fullbody.png"
+    },
+    {
+      "id": "Bay-Rabbit-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Bay-Rabbit-fullbody.png"
+    },
+    {
+      "id": "Bay-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Bay-fullbody.png"
+    },
+    {
+      "id": "Behemoth-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Behemoth-fullbody.png"
+    },
+    {
+      "id": "Belorta-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Belorta-fullbody.png"
+    },
+    {
+      "id": "Biscuit-Spring-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Biscuit-Spring-fullbody.png"
+    },
+    {
+      "id": "Biscuit-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Biscuit-fullbody.png"
+    },
+    {
+      "id": "Black-Ark-Ranger-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Black-Ark-Ranger-fullbody.png"
+    },
+    {
+      "id": "Blanc-Fortune-Express-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Blanc-Fortune-Express-fullbody.png"
+    },
+    {
+      "id": "Blanc-No77-Batter-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Blanc-No77-Batter-fullbody.png"
+    },
+    {
+      "id": "Blanc-White-Rabbit-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Blanc-White-Rabbit-fullbody.png"
+    },
+    {
+      "id": "Blanc-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Blanc-fullbody.png"
+    },
+    {
+      "id": "Bready-Frosty-Bite-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Bready-Frosty-Bite-fullbody.png"
+    },
+    {
+      "id": "Bready-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Bready-fullbody.png"
+    },
+    {
+      "id": "Brid-Black-Moon-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Brid-Black-Moon-fullbody.png"
+    },
+    {
+      "id": "Brid-Model-Worker-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Brid-Model-Worker-fullbody.png"
+    },
+    {
+      "id": "Brid-Silent-Track-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Brid-Silent-Track-fullbody.png"
+    },
+    {
+      "id": "Brid-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Brid-fullbody.png"
+    },
+    {
+      "id": "Cecil-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Cecil-fullbody.png"
+    },
+    {
+      "id": "Centi-Ocean-Repair-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Centi-Ocean-Repair-fullbody.png"
+    },
+    {
+      "id": "Centi-Supreme-Holiday-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Centi-Supreme-Holiday-fullbody.png"
+    },
+    {
+      "id": "Centi-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Centi-fullbody.png"
+    },
+    {
+      "id": "Chime-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Chime-fullbody.png"
+    },
+    {
+      "id": "Chisato-DA-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Chisato-DA-fullbody.png"
+    },
+    {
+      "id": "Chisato-Red-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Chisato-Red-fullbody.png"
+    },
+    {
+      "id": "Chisato-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Chisato-fullbody.png"
+    },
+    {
+      "id": "Chloe-Village-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Chloe-Village-fullbody.png"
+    },
+    {
+      "id": "Cielo-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Cielo-fullbody.png"
+    },
+    {
+      "id": "Cinderella-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Cinderella-fullbody.png"
+    },
+    {
+      "id": "Cinderella-glass-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Cinderella-glass-fullbody.png"
+    },
+    {
+      "id": "Cinderella-me-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Cinderella-me-fullbody.png"
+    },
+    {
+      "id": "Claire-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Claire-fullbody.png"
+    },
+    {
+      "id": "Clay-CheerUp-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Clay-CheerUp-fullbody.png"
+    },
+    {
+      "id": "Clay-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Clay-fullbody.png"
+    },
+    {
+      "id": "Cocoa-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Cocoa-fullbody.png"
+    },
+    {
+      "id": "Crow-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Crow-fullbody.png"
+    },
+    {
+      "id": "Crown-Glorious-Flower-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Crown-Glorious-Flower-fullbody.png"
+    },
+    {
+      "id": "Crown-Naked-King-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Crown-Naked-King-fullbody.png"
+    },
+    {
+      "id": "Crown-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Crown-fullbody.png"
+    },
+    {
+      "id": "Crust-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Crust-fullbody.png"
+    },
+    {
+      "id": "D-Killer-Wife-Secret-Party-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/D-Killer-Wife-Secret-Party-fullbody.png"
+    },
+    {
+      "id": "D-Killer-Wife-Secret-Police-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/D-Killer-Wife-Secret-Police-fullbody.png"
+    },
+    {
+      "id": "D-Killer-Wife-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/D-Killer-Wife-fullbody.png"
+    },
+    {
+      "id": "D-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/D-fullbody.png"
+    },
+    {
+      "id": "DEEP-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/DEEP-fullbody.png"
+    },
+    {
+      "id": "Deipara-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Deipara-fullbody.png"
+    },
+    {
+      "id": "Delta-Ninja-Thief-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Delta-Ninja-Thief-fullbody.png"
+    },
+    {
+      "id": "Delta-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Delta-fullbody.png"
+    },
+    {
+      "id": "Diesel-Black-Sunday-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Diesel-Black-Sunday-fullbody.png"
+    },
+    {
+      "id": "Diesel-Favorite-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Diesel-Favorite-fullbody.png"
+    },
+    {
+      "id": "Diesel-Flower-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Diesel-Flower-fullbody.png"
+    },
+    {
+      "id": "Diesel-Midnight-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Diesel-Midnight-fullbody.png"
+    },
+    {
+      "id": "Diesel-Winter-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Diesel-Winter-fullbody.png"
+    },
+    {
+      "id": "Diesel-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Diesel-fullbody.png"
+    },
+    {
+      "id": "Dolla-Dark-Rose-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Dolla-Dark-Rose-fullbody.png"
+    },
+    {
+      "id": "Dolla-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Dolla-fullbody.png"
+    },
+    {
+      "id": "Dorothy-CN-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Dorothy-CN-fullbody.png"
+    },
+    {
+      "id": "Dorothy-Luna-Light-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Dorothy-Luna-Light-fullbody.png"
+    },
+    {
+      "id": "Dorothy-Nostalgia-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Dorothy-Nostalgia-fullbody.png"
+    },
+    {
+      "id": "Dorothy-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Dorothy-fullbody.png"
+    },
+    {
+      "id": "Drake-Maid-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Drake-Maid-fullbody.png"
+    },
+    {
+      "id": "Drake-Villain-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Drake-Villain-fullbody.png"
+    },
+    {
+      "id": "Drake-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Drake-fullbody.png"
+    },
+    {
+      "id": "Drake2-fullbody",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/nikke/fullbody/Drake2-fullbody.png"
+    }
+  ]
+}

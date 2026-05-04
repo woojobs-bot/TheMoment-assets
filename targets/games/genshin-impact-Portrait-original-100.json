@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "name": {
+    "ko": "원신 초상화 원본 100",
+    "en": "Genshin Impact Portrait Original 100",
+    "ja": "原神 ポートレート オリジナル 100",
+    "es": "Genshin Impact Retrato Original 100"
+  },
+  "targets": [
+    {
+      "id": "Aino_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Aino_Portrait_ori.png"
+    },
+    {
+      "id": "Albedo_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Albedo_Portrait_ori.png"
+    },
+    {
+      "id": "Alhaitham_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Alhaitham_Portrait_ori.png"
+    },
+    {
+      "id": "Aloy_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Aloy_Portrait_ori.png"
+    },
+    {
+      "id": "Amber_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Amber_Portrait_ori.png"
+    },
+    {
+      "id": "Arataki_Itto_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Arataki_Itto_Portrait_ori.png"
+    },
+    {
+      "id": "Arlecchino_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Arlecchino_Portrait_ori.png"
+    },
+    {
+      "id": "Baizhu_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Baizhu_Portrait_ori.png"
+    },
+    {
+      "id": "Barbara_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Barbara_Portrait_ori.png"
+    },
+    {
+      "id": "Beidou_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Beidou_Portrait_ori.png"
+    },
+    {
+      "id": "Bennett_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Bennett_Portrait_ori.png"
+    },
+    {
+      "id": "Candace_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Candace_Portrait_ori.png"
+    },
+    {
+      "id": "Charlotte_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Charlotte_Portrait_ori.png"
+    },
+    {
+      "id": "Chasca_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Chasca_Portrait_ori.png"
+    },
+    {
+      "id": "Chevreuse_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Chevreuse_Portrait_ori.png"
+    },
+    {
+      "id": "Chiori_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Chiori_Portrait_ori.png"
+    },
+    {
+      "id": "Chongyun_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Chongyun_Portrait_ori.png"
+    },
+    {
+      "id": "Citlali_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Citlali_Portrait_ori.png"
+    },
+    {
+      "id": "Clorinde_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Clorinde_Portrait_ori.png"
+    },
+    {
+      "id": "Collei_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Collei_Portrait_ori.png"
+    },
+    {
+      "id": "Columbina_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Columbina_Portrait_ori.png"
+    },
+    {
+      "id": "Cyno_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Cyno_Portrait_ori.png"
+    },
+    {
+      "id": "Dahlia_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Dahlia_Portrait_ori.png"
+    },
+    {
+      "id": "Dehya_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Dehya_Portrait_ori.png"
+    },
+    {
+      "id": "Diluc_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Diluc_Portrait_ori.png"
+    },
+    {
+      "id": "Diona_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Diona_Portrait_ori.png"
+    },
+    {
+      "id": "Dori_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Dori_Portrait_ori.png"
+    },
+    {
+      "id": "Durin_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Durin_Portrait_ori.png"
+    },
+    {
+      "id": "Emilie_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Emilie_Portrait_ori.png"
+    },
+    {
+      "id": "Escoffier_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Escoffier_Portrait_ori.png"
+    },
+    {
+      "id": "Eula_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Eula_Portrait_ori.png"
+    },
+    {
+      "id": "Faruzan_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Faruzan_Portrait_ori.png"
+    },
+    {
+      "id": "Fischl_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Fischl_Portrait_ori.png"
+    },
+    {
+      "id": "Flins_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Flins_Portrait_ori.png"
+    },
+    {
+      "id": "Freminet_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Freminet_Portrait_ori.png"
+    },
+    {
+      "id": "Furina_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Furina_Portrait_ori.png"
+    },
+    {
+      "id": "Gaming_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Gaming_Portrait_ori.png"
+    },
+    {
+      "id": "Ganyu_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Ganyu_Portrait_ori.png"
+    },
+    {
+      "id": "Gorou_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Gorou_Portrait_ori.png"
+    },
+    {
+      "id": "Hu_Tao_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Hu_Tao_Portrait_ori.png"
+    },
+    {
+      "id": "Iansan_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Iansan_Portrait_ori.png"
+    },
+    {
+      "id": "Ifa_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Ifa_Portrait_ori.png"
+    },
+    {
+      "id": "Illuga_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Illuga_Portrait_ori.png"
+    },
+    {
+      "id": "Ineffa_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Ineffa_Portrait_ori.png"
+    },
+    {
+      "id": "Jahoda_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Jahoda_Portrait_ori.png"
+    },
+    {
+      "id": "Jean_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Jean_Portrait_ori.png"
+    },
+    {
+      "id": "Kachina_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Kachina_Portrait_ori.png"
+    },
+    {
+      "id": "Kaedehara_Kazuha_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Kaedehara_Kazuha_Portrait_ori.png"
+    },
+    {
+      "id": "Kaeya_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Kaeya_Portrait_ori.png"
+    },
+    {
+      "id": "Kamisato_Ayaka_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Kamisato_Ayaka_Portrait_ori.png"
+    },
+    {
+      "id": "Kamisato_Ayato_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Kamisato_Ayato_Portrait_ori.png"
+    },
+    {
+      "id": "Kaveh_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Kaveh_Portrait_ori.png"
+    },
+    {
+      "id": "Keqing_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Keqing_Portrait_ori.png"
+    },
+    {
+      "id": "Kinich_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Kinich_Portrait_ori.png"
+    },
+    {
+      "id": "Kirara_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Kirara_Portrait_ori.png"
+    },
+    {
+      "id": "Klee_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Klee_Portrait_ori.png"
+    },
+    {
+      "id": "Kujou_Sara_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Kujou_Sara_Portrait_ori.png"
+    },
+    {
+      "id": "Kuki_Shinobu_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Kuki_Shinobu_Portrait_ori.png"
+    },
+    {
+      "id": "Lan_Yan_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Lan_Yan_Portrait_ori.png"
+    },
+    {
+      "id": "Lauma_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Lauma_Portrait_ori.png"
+    },
+    {
+      "id": "Layla_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Layla_Portrait_ori.png"
+    },
+    {
+      "id": "Linnea_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Linnea_Portrait_ori.png"
+    },
+    {
+      "id": "Lisa_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Lisa_Portrait_ori.png"
+    },
+    {
+      "id": "Lynette_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Lynette_Portrait_ori.png"
+    },
+    {
+      "id": "Lyney_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Lyney_Portrait_ori.png"
+    },
+    {
+      "id": "Mavuika_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Mavuika_Portrait_ori.png"
+    },
+    {
+      "id": "Mika_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Mika_Portrait_ori.png"
+    },
+    {
+      "id": "Mona_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Mona_Portrait_ori.png"
+    },
+    {
+      "id": "Mualani_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Mualani_Portrait_ori.png"
+    },
+    {
+      "id": "Nahida_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Nahida_Portrait_ori.png"
+    },
+    {
+      "id": "Navia_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Navia_Portrait_ori.png"
+    },
+    {
+      "id": "Nefer_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Nefer_Portrait_ori.png"
+    },
+    {
+      "id": "Neuvillette_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Neuvillette_Portrait_ori.png"
+    },
+    {
+      "id": "Nilou_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Nilou_Portrait_ori.png"
+    },
+    {
+      "id": "Ningguang_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Ningguang_Portrait_ori.png"
+    },
+    {
+      "id": "Noelle_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Noelle_Portrait_ori.png"
+    },
+    {
+      "id": "Ororon_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Ororon_Portrait_ori.png"
+    },
+    {
+      "id": "Qiqi_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Qiqi_Portrait_ori.png"
+    },
+    {
+      "id": "Raiden_Shogun_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Raiden_Shogun_Portrait_ori.png"
+    },
+    {
+      "id": "Razor_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Razor_Portrait_ori.png"
+    },
+    {
+      "id": "Rosaria_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Rosaria_Portrait_ori.png"
+    },
+    {
+      "id": "Sangonomiya_Kokomi_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Sangonomiya_Kokomi_Portrait_ori.png"
+    },
+    {
+      "id": "Sayu_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Sayu_Portrait_ori.png"
+    },
+    {
+      "id": "Sethos_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Sethos_Portrait_ori.png"
+    },
+    {
+      "id": "Shenhe_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Shenhe_Portrait_ori.png"
+    },
+    {
+      "id": "Shikanoin_Heizou_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Shikanoin_Heizou_Portrait_ori.png"
+    },
+    {
+      "id": "Sigewinne_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Sigewinne_Portrait_ori.png"
+    },
+    {
+      "id": "Skirk_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Skirk_Portrait_ori.png"
+    },
+    {
+      "id": "Sucrose_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Sucrose_Portrait_ori.png"
+    },
+    {
+      "id": "Tartaglia_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Tartaglia_Portrait_ori.png"
+    },
+    {
+      "id": "Thoma_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Thoma_Portrait_ori.png"
+    },
+    {
+      "id": "Tighnari_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Tighnari_Portrait_ori.png"
+    },
+    {
+      "id": "Varesa_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Varesa_Portrait_ori.png"
+    },
+    {
+      "id": "Varka_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Varka_Portrait_ori.png"
+    },
+    {
+      "id": "Venti_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Venti_Portrait_ori.png"
+    },
+    {
+      "id": "Wanderer_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Wanderer_Portrait_ori.png"
+    },
+    {
+      "id": "Wriothesley_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Wriothesley_Portrait_ori.png"
+    },
+    {
+      "id": "Xiangling_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Xiangling_Portrait_ori.png"
+    },
+    {
+      "id": "Xianyun_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Xianyun_Portrait_ori.png"
+    },
+    {
+      "id": "Xiao_Portrait_ori",
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/genshin-impact/Portrait/original/Xiao_Portrait_ori.png"
+    }
+  ]
+}
