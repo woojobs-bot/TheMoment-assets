@@ -4,43 +4,43 @@
   "targets": [
     {
       "id": "cat01",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat01.png"
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat01.png"
     },
     {
       "id": "cat02",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat02.png"
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat02.png"
     },
     {
       "id": "cat03",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat03.png"
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat03.png"
     },
     {
       "id": "cat04",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat04.png"
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat04.png"
     },
     {
       "id": "cat05",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat05.png"
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat05.png"
     },
     {
       "id": "cat06",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat06.png"
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat06.png"
     },
     {
       "id": "cat07",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat07.png"
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat07.png"
     },
     {
       "id": "cat08",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat08.png"
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat08.png"
     },
     {
       "id": "cat09",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat09.png"
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat09.png"
     },
     {
       "id": "cat10",
-      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat10.png"
+      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat10.png"
     }
   ]
 }
