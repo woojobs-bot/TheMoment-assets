@@ -1,206 +1,206 @@
 {
-  "version": 2,
+  "version": 1,
   "name": { "ko": "고양이", "en": "Cats", "ja": "猫", "es": "Gatos" },
   "targets": [
     {
       "id": "cat01",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat01.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat01.png"
     },
     {
       "id": "cat02",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat02.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat02.png"
     },
     {
       "id": "cat03",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat03.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat03.png"
     },
     {
       "id": "cat04",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat04.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat04.png"
     },
     {
       "id": "cat05",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat05.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat05.png"
     },
     {
       "id": "cat06",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat06.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat06.png"
     },
     {
       "id": "cat07",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat07.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat07.png"
     },
     {
       "id": "cat08",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat08.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat08.png"
     },
     {
       "id": "cat09",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat09.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat09.png"
     },
     {
       "id": "cat10",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat10.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat10.png"
     },
     {
       "id": "cat11",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat11.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat11.png"
     },
     {
       "id": "cat12",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat12.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat12.png"
     },
     {
       "id": "cat13",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat13.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat13.png"
     },
     {
       "id": "cat14",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat14.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat14.png"
     },
     {
       "id": "cat15",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat15.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat15.png"
     },
     {
       "id": "cat16",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat16.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat16.png"
     },
     {
       "id": "cat17",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat17.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat17.png"
     },
     {
       "id": "cat18",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat18.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat18.png"
     },
     {
       "id": "cat19",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat19.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat19.png"
     },
     {
       "id": "cat20",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat20.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat20.png"
     },
     {
       "id": "cat21",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat21.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat21.png"
     },
     {
       "id": "cat22",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat22.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat22.png"
     },
     {
       "id": "cat23",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat23.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat23.png"
     },
     {
       "id": "cat24",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat24.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat24.png"
     },
     {
       "id": "cat25",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat25.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat25.png"
     },
     {
       "id": "cat26",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat26.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat26.png"
     },
     {
       "id": "cat27",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat27.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat27.png"
     },
     {
       "id": "cat28",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat28.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat28.png"
     },
     {
       "id": "cat29",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat29.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat29.png"
     },
     {
       "id": "cat30",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat30.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat30.png"
     },
     {
       "id": "cat31",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat31.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat31.png"
     },
     {
       "id": "cat32",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat32.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat32.png"
     },
     {
       "id": "cat33",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat33.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat33.png"
     },
     {
       "id": "cat34",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat34.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat34.png"
     },
     {
       "id": "cat35",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat35.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat35.png"
     },
     {
       "id": "cat36",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat36.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat36.png"
     },
     {
       "id": "cat37",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat37.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat37.png"
     },
     {
       "id": "cat38",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat38.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat38.png"
     },
     {
       "id": "cat39",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat39.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat39.png"
     },
     {
       "id": "cat40",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat40.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat40.png"
     },
     {
       "id": "cat41",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat41.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat41.png"
     },
     {
       "id": "cat42",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat42.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat42.png"
     },
     {
       "id": "cat43",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat43.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat43.png"
     },
     {
       "id": "cat44",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat44.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat44.png"
     },
     {
       "id": "cat45",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat45.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat45.png"
     },
     {
       "id": "cat46",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat46.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat46.png"
     },
     {
       "id": "cat47",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat47.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat47.png"
     },
     {
       "id": "cat48",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat48.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat48.png"
     },
     {
       "id": "cat49",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat49.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat49.png"
     },
     {
       "id": "cat50",
-      "url": "https://pub-09b9b514f4e340a48f5925829ef2ddf0.r2.dev/cats/cat50.png"
+      "url": "https://raw.githubusercontent.com/woojobs-bot/TheMoment-assets/main/targets/cats/cat50.png"
     }
   ]
 }
